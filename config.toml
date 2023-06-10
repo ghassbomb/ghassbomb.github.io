@@ -1,0 +1,83 @@
+baseURL = 'https://ghassbomb.github.io/'
+languageCode = 'en-us'
+title = 'Ghassan Shahzad'
+theme = 'shahugo'
+
+author = 'Ghassan Shahzad'
+
+copyright = '© 2023- Ghassan Shahzad'
+enableRobotsTXT = true
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Archives"
+    url = "/archives"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "https://github.com/ghassbomb"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories"
+    weight = 5
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 6
+
+[params]
+	logo = "/logo.png" ## Resorts to .Site.Title if not specified
+	description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
+
+	[[params.social]]
+		icon = "fab fa-github"
+		link = "https://github.com/ghassbomb"
+	[[params.social]]
+		icon = "fab fa-instagram"
+		link = "https://instagram.com/ghassanshahzad"
+	[[params.social]]
+		icon = "fab fa-goodreads"
+		link = "https://goodreads.com/ghass_bomb"
+	[[params.social]]
+		icon = "fab fa-linkedin"
+		link = "https://www.linkedin.com/in/ghassbomb/"
+	[[params.social]]
+		icon = "fa-solid fa-envelope"
+		link = "mailto:ghass.shahzad@gmail.com"
+	[[params.social]]
+		icon = "fa-brands fa-stack-overflow"
+		link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[frontmatter]
+	date = ['date']
+	publishDate = ['publishDate']
+
+[params.projects]
+  [[params.projects.list]]
+  title = "This Website"
+  href = "https://github.com/ghassbomb/ghassbomb.github.io"
+  description = "Made with Hugo and Shahugo."
+
+  [[params.projects.list]]
+  title = "Shahugo"
+  href = "https://github.com/ghassbomb/shahugo"
+  description = "My own Hugo blogging theme."
+
+  [[params.projects.list]]
+  title = "MCQambridge"
+  href = "https://github.com/ghassbomb/mcqambridge"
+  description = "An automated Cambridge MCQ practice site."
+
+[markup.goldmark.renderer]
+	unsafe= true
