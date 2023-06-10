@@ -1,0 +1,455 @@
+:root {
+  box-sizing: border-box;
+  --color-primary: #83a598;
+  --color-secondary: #d79921;
+  --color-accent: #b16286;
+  --color-link: #8ec07c;
+  --color-heading: #ebdbb2;
+  --color-background: #282828;
+  --color-text: #ebdbb2;
+  --color-code: #fe8019;
+  --color-footer: #202020;
+  --color-footer-text: #ebdbb2;
+  --color-border: #504945;
+
+  --font-size-html: 12px;
+  --font-size-sm: 13px;
+  --font-size-md: 15px;
+  --font-size-lg: 18px;
+  --font-size-base: 1.3rem;
+  --font-size-small: 0.9rem;
+  --font-size-heading1: 3rem;
+  --font-size-heading2: 2.5rem;
+  --font-size-heading3: 2rem;
+  --font-size-heading4: 1.8rem;
+}
+
+html {
+  font-size: var(--font-size-html);
+}
+
+@media screen and (max-width: 767px) {
+  html {
+    font-size: var(--font-size-html);
+  }
+
+  .logo {
+    max-width: 200px;
+  }
+
+  .row .column:not(:last-child) {
+    margin-bottom: 1rem;
+  }
+
+  .video {
+    width: 100%;
+  }
+
+  .list-form {
+    width: 90%;
+  }
+
+  .newsletter-text {
+    font-size: var(--font-size-small);
+  }
+}
+
+/* sm */
+@media screen and (min-width: 768px) {
+  html {
+    font-size: var(--font-size-sm);
+  }
+
+  .logo {
+    max-width: 200px;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    width: 100%;
+  }
+
+  .row .column {
+    display: block;
+    flex: 1 1 auto;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .row .column:not(:last-child) {
+    margin-right: 10px;
+  }
+
+  .align-right {
+    text-align: right;
+  }
+
+  .video {
+    width: 70%;
+  }
+
+  .list-form {
+    width: 60%;
+  }
+
+  .newsletter-text {
+    font-size: var(--font-size-base);
+  }
+}
+
+/* md */
+@media screen and (min-width: 992px) {
+  html {
+    font-size: var(--font-size-md);
+  }
+
+  .logo {
+    max-width: 300px;
+  }
+}
+
+/* lg */
+@media screen and (min-width: 2560px) {
+  html {
+    font-size: var(--font-size-lg);
+  }
+}
+
+body {
+  margin: 0;
+  font-family: "Iosevka Aile Web", sans-serif;
+  font-weight: 300;
+  font-size: var(--font-size-base);
+  line-height: 1.5;
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+b {
+  font-weight: 800;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+}
+
+.metadata {
+	margin-bottom: 30px;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Iosevka Aile Web", sans-serif;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-heading);
+}
+
+h1 {
+  color: var(--color-primary);
+}
+
+h2 {
+  color: var(--color-secondary);
+}
+
+h3 {
+  color: var(--color-accent);
+}
+
+h4 {
+  color: var(--color-secondary);
+}
+
+a {
+  /* color: #c3e88d; */
+  text-decoration: none;
+  color: var(--color-link);
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+  color: var(--color-link);
+}
+
+.anchor {
+  color: var(--color-background);
+  float: left;
+  padding-right: 4px;
+  margin-left: -23px;
+}
+
+.anchor:hover {
+  text-decoration: none;
+}
+
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor {
+  color: inherit;
+}
+
+kbd {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 200;
+}
+
+pre {
+  font-family: "JetBrains Mono", monospace;
+  background-color: #232635;
+  padding: 1em;
+  overflow-x: scroll;
+}
+
+code {
+  color: var(--color-code);
+}
+
+span {
+	font-size: 16px;
+}
+
+pre,
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 200;
+  font-size: 1rem;
+}
+
+strong {
+  font-weight: 700;
+}
+
+/*
+ * Override Bootstrap's default container.
+ */
+
+.container {
+  max-width: 60rem;
+}
+
+/*
+ * Masthead for nav
+ */
+
+.site-masthead {
+  margin-bottom: 0.5rem;
+  background-color: rgba(32, 32, 32, 0.6);
+  border-bottom: 0.05rem solid var(--color-secondary);
+  -webkit-box-shadow: inset 0 -0.1rem 0.25rem rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 -0.1rem 0.25rem rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  display: block;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* Nav links */
+.nav-link {
+  position: relative;
+  padding: 0rem;
+  font-size: var(--font-size-base);
+  margin: 0.5rem 1.25rem 0.5rem 0rem;
+  font-weight: bold;
+  color: var(--color-footer-text);
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #fff;
+  background-color: transparent;
+}
+
+/* Active state gets a caret at the bottom */
+.nav-link.active {
+  color: #fff;
+  font-weight: bolder;
+}
+
+.nav-icon {
+  float: right;
+}
+
+.nav-icons {
+  width: auto;
+}
+
+/*
+ * Blog name and description
+ */
+
+.site-header {
+  font-family: "Iosevka Aile Web", sans-serif;
+  font-weight: bold;
+  background-image: url("/header_bg.png");
+  background-size: cover;
+}
+
+.site-title {
+  margin-bottom: 0;
+  font-size: var(--font-size-heading1);
+  font-weight: bold;
+  color: var(--color-primary);
+}
+.site-description {
+  font-size: 1.5rem;
+  color: #999;
+}
+
+@media (max-width: 40em) {
+  .site-description {
+    margin-bottom: 1rem;
+  }
+}
+
+/*
+ *$.Site pages
+ */
+
+.site-post {
+  margin-bottom: 2rem;
+}
+
+.site-post-title {
+  margin-bottom: 0.75rem;
+  font-size: var(--font-size-heading2);
+}
+
+.site-post-meta {
+  margin-bottom: 1.25rem;
+  color: #999;
+}
+
+.site-post-tags {
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.1rem;
+  color: #999;
+}
+
+/*
+ * Footer
+ */
+
+.site-footer {
+  padding: 1.3rem 0;
+  margin-top: 3rem;
+  color: var(--color-footer-text);
+  font-size: 1rem;
+  background-color: var(--color-footer);
+  border-top: 0.05rem solid var(--color-secondary);
+}
+
+.site-footer p:last-child {
+  margin-bottom: 0;
+}
+
+.site-footer-right {
+  text-align: right;
+}
+
+.video {
+  position: relative;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.video::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.list-form {
+  font-size: var(--font-size-small);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--color-secondary);
+  border-radius: 4px;
+  background-color: var(--color-background);
+}
+
+.list-form-title {
+  font-family: "Iosevka Aile Web", sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-secondary);
+}
+
+.list-form-label {
+  margin-top: 0.8rem;
+  font-weight: bold;
+}
+
+.list-form input[type="text"] {
+  width: 100%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid var(--color-secondary);
+  border-radius: 4px;
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+.list-form input[type="submit"] {
+  width: 50%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid var(--color-primary);
+  border-radius: 4px;
+  background-color: var(--color-primary);
+  color: var(--color-background);
+}
+
