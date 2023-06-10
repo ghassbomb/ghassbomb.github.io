@@ -6,7 +6,7 @@ categories:
   - Books
 tags:
   - Behavioral Economics
-draft: true
+draft: false
 ---
 Full notes can be downloaded <a href="https://www.dropbox.com/s/iwyf74427k1vpyb/Notes%20-%20Predictably%20Irrational%2C%20by%20Dan%20Ariely.pdf?dl=0" target="_blank">here</a>
 
