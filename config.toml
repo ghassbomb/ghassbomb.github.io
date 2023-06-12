@@ -38,21 +38,27 @@ enableRobotsTXT = true
 	description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
 
 	[[params.social]]
+		name = 'Github'
 		icon = "fab fa-github"
 		link = "https://github.com/ghassbomb"
 	[[params.social]]
+		name = 'Instagram'
 		icon = "fab fa-instagram"
 		link = "https://instagram.com/ghassanshahzad"
 	[[params.social]]
+		name = 'Goodreads'
 		icon = "fab fa-goodreads"
 		link = "https://goodreads.com/ghass_bomb"
 	[[params.social]]
+		name = 'Linkedin'
 		icon = "fab fa-linkedin"
 		link = "https://www.linkedin.com/in/ghassbomb/"
 	[[params.social]]
+		name = 'Mail'
 		icon = "fa-solid fa-envelope"
 		link = "mailto:ghass.shahzad@gmail.com"
 	[[params.social]]
+		name = 'StackOverflow'
 		icon = "fa-brands fa-stack-overflow"
 		link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
 [taxonomies]
