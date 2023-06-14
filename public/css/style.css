@@ -360,3 +360,6 @@ strong {
   background-color: var(--color-primary);
   color: var(--color-background);
 }
+li{
+	margin-bottom: 20px;
+}
