@@ -2,113 +2,126 @@ baseURL = 'https://ghassbomb.github.io/'
 languageCode = 'en-us'
 title = 'Ghassan Shahzad'
 theme = 'gruvtex'
-author = 'Ghassan Shahzad'
-
-enableRobotsTXT = true
+description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
+disqusShortname = "ghassan-shahzad"
+googleAnalytics = 'G-DLSVNLVBTV'
 
 [menu]
-  [[menu.main]]
-  	identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Archives"
-    url = "/posts"
-    weight = 2
-  	identifier = "archives"
-  [[menu.main]]
-    name = "Projects"
-    url = "https://github.com/ghassbomb"
-    weight = 3
-  	identifier = "projects"
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = 4
-  	identifier = "tags"
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories"
-    weight = 5
-  	identifier = "categories"
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 6
-  	identifier = "about"
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Archives"
+url = "/posts"
+weight = 2
+identifier = "archives"
+[[menu.main]]
+name = "Projects"
+url = "https://github.com/ghassbomb"
+weight = 3
+identifier = "projects"
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+identifier = "tags"
+[[menu.main]]
+name = "Categories"
+url = "/categories"
+weight = 5
+identifier = "categories"
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 6
+identifier = "about"
 
 [params]
-	description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
-  keywords = ["ghassan", "python", "latex", "light", "minimal", "responsive", "simple", "gruvbox", "programming", "coding", "books", "history", "hugo", "linux", "macos"]
-  dateFormat = "January 2, 2006"
-  emphasisWithDots = true
-  since = "2023"
-  toc = false
-  showWordCount = true
-  showReadingTime = true
-  rootFontSize = "120%"
-  math = true
-  numberedSubtitles = false
+keywords = [
+  "python",
+  "latex",
+  "light",
+  "minimal",
+  "responsive",
+  "simple",
+  "gruvbox",
+  "programming",
+  "coding",
+  "books",
+  "history",
+  "hugo",
+  "linux",
+  "macos",
+]
+dateFormat = "January 2, 2006"
+showWordCount = true
+showReadingTime = true
+since = "2023"
 
-	[[params.social]]
-		name = 'Github'
-		icon = "fab fa-github"
-		link = "https://github.com/ghassbomb"
-	[[params.social]]
-		name = 'Instagram'
-		icon = "fab fa-instagram"
-		link = "https://instagram.com/ghassanshahzad"
-	[[params.social]]
-		name = 'Goodreads'
-		icon = "fab fa-goodreads"
-		link = "https://goodreads.com/ghass_bomb"
-	[[params.social]]
-		name = 'Linkedin'
-		icon = "fab fa-linkedin"
-		link = "https://www.linkedin.com/in/ghassbomb/"
-	[[params.social]]
-		name = 'Mail'
-		icon = "fa-solid fa-envelope"
-		link = "mailto:ghass.shahzad@gmail.com"
-	[[params.social]]
-		name = 'StackOverflow'
-		icon = "fa-brands fa-stack-overflow"
-		link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
+[[params.social]]
+name = 'Github'
+icon = "fab fa-github"
+link = "https://github.com/ghassbomb"
+[[params.social]]
+name = 'Instagram'
+icon = "fab fa-instagram"
+link = "https://instagram.com/ghassanshahzad"
+[[params.social]]
+name = 'Goodreads'
+icon = "fab fa-goodreads"
+link = "https://goodreads.com/ghass_bomb"
+[[params.social]]
+name = 'Linkedin'
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/ghassbomb/"
+[[params.social]]
+name = 'Mail'
+icon = "fa-solid fa-envelope"
+link = "mailto:ghass.shahzad@gmail.com"
+[[params.social]]
+name = 'StackOverflow'
+icon = "fa-brands fa-stack-overflow"
+link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
 
-  [params.projects]
-    [[params.projects.list]]
-      title = "This Website"
-      href = "https://github.com/ghassbomb/ghassbomb.github.io"
-      description = "Made with Hugo and Shahugo."
+[params.projects]
+[[params.projects.list]]
+title = "This Website"
+href = "https://github.com/ghassbomb/ghassbomb.github.io"
+description = "Made with Hugo and GrUvTeX."
 
-    [[params.projects.list]]
-      title = "Shahugo"
-      href = "https://github.com/ghassbomb/shahugo"
-      description = "My own Hugo blogging theme."
+[[params.projects.list]]
+title = "Shahugo (ARCHIVED)"
+href = "https://github.com/ghassbomb/shahugo"
+description = "My own Hugo blogging theme."
 
-    [[params.projects.list]]
-      title = "MCQambridge"
-      href = "https://github.com/ghassbomb/mcqambridge"
-      description = "An automated Cambridge MCQ practice site."
+[[params.projects.list]]
+title = "GrUvTeX"
+href = "https://github.com/ghassbomb/shahugo"
+description = "GrUvTeX is a LaTeX-inspired theme that utilizes the various gruvbox color schemes to provide an easy-on-the-eyes blog for large, technical (or otherwise) content."
 
-  [params.sharingbuttons]
-    facebook = true
-    twitter = true
-    email = true
-    linkedin = true
-    reddit = true
-    whatsapp = true
-    hackernews = true
-    telegram = true
+[[params.projects.list]]
+title = "MCQambridge"
+href = "https://github.com/ghassbomb/mcqambridge"
+description = "MCQambridge is an automated MCQ past paper solving application for Cambridge A-levels & IGCSE, created to simplify the process of checking answers, calculating scores, and percentages."
 
 [taxonomies]
-  category = 'categories'
-  tag = 'tags'
+category = 'categories'
+tag = 'tags'
 
 [frontmatter]
-	date = ['date']
-	publishDate = ['publishDate']
+date = ['date']
+publishDate = ['publishDate']
 
 [markup.goldmark.renderer]
-	unsafe = true
+unsafe = true
+
+[sitemap]
+changefreq = 'monthly'
+filename = 'sitemap.xml'
+priority = 0.5
+
+[author]
+name = "Ghassan Shahzad"
+location = "Lahore"
