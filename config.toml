@@ -1,41 +1,55 @@
 baseURL = 'https://ghassbomb.github.io/'
 languageCode = 'en-us'
 title = 'Ghassan Shahzad'
-theme = 'shahugo'
-
+theme = 'gruvtex'
 author = 'Ghassan Shahzad'
 
-copyright = '© 2023- Ghassan Shahzad'
 enableRobotsTXT = true
+
 [menu]
   [[menu.main]]
+  	identifier = "home"
     name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
     name = "Archives"
-    url = "/archives"
+    url = "/posts"
     weight = 2
+  	identifier = "archives"
   [[menu.main]]
     name = "Projects"
     url = "https://github.com/ghassbomb"
     weight = 3
+  	identifier = "projects"
   [[menu.main]]
     name = "Tags"
     url = "/tags"
     weight = 4
+  	identifier = "tags"
   [[menu.main]]
     name = "Categories"
     url = "/categories"
     weight = 5
+  	identifier = "categories"
   [[menu.main]]
     name = "About"
     url = "/about"
     weight = 6
+  	identifier = "about"
 
 [params]
-	logo = "/logo.png" ## Resorts to .Site.Title if not specified
 	description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
+  keywords = ["ghassan", "python", "latex", "light", "minimal", "responsive", "simple", "gruvbox", "programming", "coding", "books", "history", "hugo", "linux", "macos"]
+  dateFormat = "January 2, 2006"
+  emphasisWithDots = true
+  since = "2023"
+  toc = false
+  showWordCount = true
+  showReadingTime = true
+  rootFontSize = "120%"
+  math = true
+  numberedSubtitles = false
 
 	[[params.social]]
 		name = 'Github'
@@ -61,6 +75,33 @@ enableRobotsTXT = true
 		name = 'StackOverflow'
 		icon = "fa-brands fa-stack-overflow"
 		link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
+
+  [params.projects]
+    [[params.projects.list]]
+      title = "This Website"
+      href = "https://github.com/ghassbomb/ghassbomb.github.io"
+      description = "Made with Hugo and Shahugo."
+
+    [[params.projects.list]]
+      title = "Shahugo"
+      href = "https://github.com/ghassbomb/shahugo"
+      description = "My own Hugo blogging theme."
+
+    [[params.projects.list]]
+      title = "MCQambridge"
+      href = "https://github.com/ghassbomb/mcqambridge"
+      description = "An automated Cambridge MCQ practice site."
+
+  [params.sharingbuttons]
+    facebook = true
+    twitter = true
+    email = true
+    linkedin = true
+    reddit = true
+    whatsapp = true
+    hackernews = true
+    telegram = true
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'
@@ -69,21 +110,5 @@ enableRobotsTXT = true
 	date = ['date']
 	publishDate = ['publishDate']
 
-[params.projects]
-  [[params.projects.list]]
-  title = "This Website"
-  href = "https://github.com/ghassbomb/ghassbomb.github.io"
-  description = "Made with Hugo and Shahugo."
-
-  [[params.projects.list]]
-  title = "Shahugo"
-  href = "https://github.com/ghassbomb/shahugo"
-  description = "My own Hugo blogging theme."
-
-  [[params.projects.list]]
-  title = "MCQambridge"
-  href = "https://github.com/ghassbomb/mcqambridge"
-  description = "An automated Cambridge MCQ practice site."
-
 [markup.goldmark.renderer]
-	unsafe= true
+	unsafe = true

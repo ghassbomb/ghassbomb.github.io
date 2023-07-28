@@ -1,6 +1,0 @@
-[submodule "themes/shahugo"]
-	path = themes/shahugo
-	url = https://github.com/ghassbomb/shahugo
-[submodule "themes/gruvtex"]
-	path = themes/gruvtex
-	url = https://github.com/weastur/hugo-texify2.git
