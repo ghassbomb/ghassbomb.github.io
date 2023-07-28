@@ -1,0 +1,3 @@
+[submodule "themes/gruvtex"]
+	path = themes/gruvtex
+	url = https://github.com/ghassbomb/GrUvTeX
