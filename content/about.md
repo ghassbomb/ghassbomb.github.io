@@ -17,8 +17,7 @@ title: "About Me"
 - Beaconhouse Newlands; Lahore, Pakistan
   - *2014—2018*
 - Roots IVY Internation School; Lahore, Pakistan
-  - *2018—*
-
+  - *2018—2023*
 
 ### Research Experience
 
@@ -30,13 +29,7 @@ title: "About Me"
 
 ### Projects
 
-- **MCQambridge** | [GitHub](https://github.com/ghassbomb/mcqambridge)
-  - MCQambridge is an automated MCQ past paper solving application for Cambridge A-levels & IGCSE, created to simplify the process of checking answers, calculating scores, and percentages.
-- **This Website** | [GitHub](https://github.com/ghassbomb/shahugo)
-  - A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…
-- **Shahugo** | [GitHub](https://github.com/ghassbomb/shahugo)
-  - My own Hugo blogging theme.
-
+{% projects %}
 
 ### Skills
 

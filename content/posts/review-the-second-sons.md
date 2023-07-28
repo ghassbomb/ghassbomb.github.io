@@ -7,6 +7,7 @@ categories:
 tags:
   - Fantasy
 draft: false
+summary: My notes for the book 'Predictably Irrational', a decent if not repetitive book on behavioral econ with some weirdly iffy conclusions.
 ---
 
 ## The World:

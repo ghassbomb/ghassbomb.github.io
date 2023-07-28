@@ -7,6 +7,7 @@ categories:
 tags:
   - Artificial Intelligence
 draft: false
+summary: In which I use the help of Henry Hazlitt to debunk fears regarding the proliferation of AI.
 ---
 
 Much hub-bub has been made over the ‘new’ specter of AI that is lurking over the corner of every sector of the economy and is apparently going to [kill us all.](https://www.trtworld.com/magazine/researchers-warn-ai-could-one-day-kill-everyone-12777330) Technological fears are, of course, **not new**. I doubt most people buy the extermination nonsense, but I do imagine that quite a few are vaguely worried about losing their jobs, or a general loss in employment. These people *miss* a general point in economics that I will call upon Henry Hazlitt to explain. 
