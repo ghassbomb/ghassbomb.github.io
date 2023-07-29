@@ -11,7 +11,7 @@ summary: My notes for the book 'Predictably Irrational', a decent if not repetit
 ---
 Full notes can be downloaded <a href="https://www.dropbox.com/s/iwyf74427k1vpyb/Notes%20-%20Predictably%20Irrational%2C%20by%20Dan%20Ariely.pdf?dl=0" target="_blank">here</a>
 
-## Introduction
+### Introduction
 > We are not only irrational, but predictably irrational—that our irrationality happens the same way, again and again. Whether we are acting as consumers, business-people, or policymakers, understanding how we are predictably irrational provides a starting point for improving our decision-making and changing the way we live for the better. 
 
 Dan Ariely tells us a story: When he was eighteen, he was the victim of an explosion of 'a large magnesium flare'. Medical treatments in the aftermath and the ensuing isolation left him with an inquisitive and thoughtful nature—and a boatload of painful remedies.
@@ -26,7 +26,7 @@ Dan eventually recovered, but as he advanced his scholarly career, he kept this 
 
 Dan's point in bringing this up is that, if even these **extremely experienced** nurses didn't realize their methods were wrong, their behaviors were **irrational**, then perhaps we often similarly—wrongly—deal with common problems, **repeatedly**. In Dan's words, most of our mistakes are **predictably irrational**, and by understanding the behaviors that lead to them better, we can make less of these mistakes.
 
-## Chapter 1
+### Chapter 1
 > As H. L. Mencken, the twentieth-century journalist, satirist, social critic, cynic, and freethinker noted, a man’s satisfaction with his salary depends on whether he makes more than his wife’s sister’s husband. Why the wife’s sister’s husband? Because this is a comparison that is salient and readily available.
 
 **Our decisions are typically informed not by absolute values, but by comparison**. This is especially true when, say, we're purchasing an item about which we're not experts on. *We base our valuation of a chosen item based on other, comparable items*.
@@ -50,7 +50,7 @@ Well that's because, as Dan puts it, '**we not only tend to compare things with 
 
 > in 1993, federal securities regulators forced companies, for the first time, to reveal details about the pay and perks of their top executives. The idea was that once pay was in the open, boards would be reluctant to give executives outrageous salaries and benefits. […] But guess what happened. Once salaries became public information, the media regularly ran special stories ranking CEOs by pay. Rather than suppressing the executive perks, the publicity had CEOs in America comparing their pay with that of everyone else. In response, executives’ salaries skyrocketed. […] Now the average CEO makes about 369 times as much as the average worker—about three times the salary before executive compensation went public.
 
-## Chapter 2
+### Chapter 2
 > Or, as Mark Twain once noted about Tom Sawyer, “Tom had discovered a great law of human action, namely, that in order to make a man covet a thing, it is only necessary to make the thing difficult to attain.” 
 
 James Assael was once a supplier of waterproof watches to the US war-effort but as the war died down he couldn't find a new market for his watches. The Japanese had a market, but they didn't have the money, only pearls. Assael took the deal and decided to trade his watches for pearls, and soon became known as 'the Pearl king'. 
@@ -71,7 +71,7 @@ This leads into **herding**; when you see many people doing a certain thing, you
 
 Another question is, why Starbucks? If the coffee was cheaper, for example, at your previous choice of coffee store, why did we change to Starbucks? Why did this 'anchor' at our previous coffee shop not influence our decision this time? The answer is that, *by brooking comparisons to other coffee shops and making Starbucks as distinct from them as possible, Howard Shultz (Starbucks' founder) prevented potential customers from using other coffee shops as anchors for Starbucks*.
 
-## Chapter 3
+### Chapter 3
 > Zero is not just another discount. Zero is a different place. The difference between two cents and one cent is small. But the difference between one cent and zero is huge!
 
 It's time for another experiment. Dan sets up a table at a large public building with two offerings: Hershey's Kisses (henceforth abbreviated HK) and a Lindt truffle. A Lindt truffle, for reference, costs about 30 cents. He offers the Lindt for 15 cents, and the HK for 1 cent. As customers see the table, they make a simple cost-benefit analysis and realize that the truffle is of superior quality and comparatively better than the HK, and 73% of them choose it!
@@ -82,7 +82,7 @@ Dan now cuts off one-cent from the prices of both. The HK is offered for **free*
 
 **Time** also figures in this issue. Free items often have an added **time cost**: you're usually not the only one pumped to get in line for a free serving of ice cream!
 
-## Chapter 4
+### Chapter 4
 Dan organizes another experiment. This time: he requests three groups of students to accomplish the same task. They have to drag (digital) circles into squares, as many as they can, within a time limit of five minutes. One group gets paid $5 for participation, one group gets paid 50c, and the last group *doesn't get paid at all*.
 
 The group that got paid $5 dragged (on avg) 159 circles, and the ones who received 50c dragged 101 circles on avg. The ones who didn't get paid? **They dragged 168**, more than either! Why is this? 
@@ -103,7 +103,7 @@ However, you have to be careful in breaking social norms in favor of market ones
 
 That's not all, though. The daycare center reversed the policy, but it resulted in a further increase of tardy pickups. *After all, now there were no market or social norms in place*. What does this tell us? **It takes a long while for social norms to recover after being replaced.**
 
-## Chapter 5
+### Chapter 5
 Dan continues on the topic of **market norms**. His experiment this time involves Starburst Fruit Chews. His hypothesis is this: *if he displays a limited number of fruit chews for the price of 1c, more Starbursts will be sold (per person) than if he sold the Starbursts for free.*
 
 As you've probably figured out by now, his hypothesis rang true. 'When the Starbursts cost a cent apiece, the average number of candies per customer was 3.5, but when the price went down to zero, the average went down to 1.1 per customer.'. This contradicts two laws of demand:
@@ -123,7 +123,7 @@ Dan explores further. What about **effort**? If you were asked to work for a lim
 
 The first group took an average of 30 truffles each, the second took 1.5, and the final group took 8.6; in-between, but closer to the second group.
 
-## Chapter 6
+### Chapter 6
 Dan veers into controversial territory in his next experiment. He decides to experiment on how much peoples’ **attitudes** change when in ‘**emotionally heightened**’ states, as compared to their attitudes in **normal, impassioned** situations.
 
 His emotion of choice was **sexual arousal**. *How would sexual arousal affect peoples’ decision-making skills?* The experiment was open only to men. Dan sent out ads and soon had—quite a few—willing participants.
@@ -140,7 +140,7 @@ This idea of a janus faced man—publicly respectable, privately passionate—ha
 
 What lessons can we learn from this? *For starters, never assume that your passionate brain, your animalistic side, will do anything rational. While sane, take all precautions you would need.*
 
-## Chapter 7 
+### Chapter 7 
 > Giving up on our long-term goals for immediate gratification, my friends, is procrastination.
 
 Dan turns his sights to **procrastination**, everybody’s biggest problem. The lack of **self-control** can be harmful both on an individual level and a larger scale. Dan notes that, before 2008, America had a negative savings rate, meaning that people were spending more money than they had. There are two reasons for this: easy access to credit and rampant consumerism. *Ultimately, this consumptive contributed to the 2008 recession* (Dan doesn’t mention it in the book).
@@ -162,7 +162,7 @@ When the results came in, on average, Group 3 students achieved the highest grad
 
 We could save a significant amount of money and potentially even our lives by regularly attending checkups. Alatts, our lack of self-control usually leads to us foregoing these checkups. But what if we had $200 riding on attendance? And, even worse, $200 of our own money? By holding an advance payment until you attend your scheduled checkup, your doctor can cleverly force you to attend! This synthesizes the idea of a penalty ($200 of our own money), and a third-party (the doctor). Another idea is for a user to set governors on their spending & borrowing on a credit card. If they exceed these limits, the smart card of sorts sends a notification to their family informing them of their fiscal irresponsibility, or taxes them a certain amount (which goes to charity). Here, the penalty is the tax or the shame, and the third-party is the smart-card itself.
 
-## Chapter 8
+### Chapter 8
 > Ownership is not limited to material things. It can also apply to points of view. Once we take ownership of an idea—whether it’s about politics or sports—what do we do? We love it perhaps more than we should. We prize it more than it is worth. And most frequently, we have trouble letting go of it because we can’t stand the idea of its loss. What are we left with then? An ideology—rigid and unyielding. 
 
 *We tend to value our possessions, especially the ones that figure most often in our lives, far more than a foreign objective observer would*. This is why we often believe our possessions will sell for far more than potential buyers are willing to pay, and fail to sell them as a result.
@@ -180,7 +180,7 @@ That’s why it’s good to keep an inherent sense for what things are worth, bo
 
 Marketers try to exploit this fact. Trials, for example, lead to us feeling ownership over the particular item being trialled. Eventually, we lose the strength to end the trial! Similar is the ‘30-day money back guarantee’; sure, you can always return the item if it’s not worth the money. But are we really capable of objectively evaluating and comparing the worth and utility of the items after we have ‘claimed ownership’ over it? Dan would say no.
 
-## Chapter 9
+### Chapter 9
 > In 210 BC, a Chinese commander named Xiang Yu led his troops across the Yangtze River to attack the army of the Qin (Ch’in) dynasty. Pausing on the banks of the river for the night, his troops awakened in the morning to find, to their horror, that their ships were burning. They hurried to their feet to fight off their attackers, but soon discovered that it was Xiang Yu himself who had set their ships on fire, and that he had also ordered all the cooking pots crushed. Xiang Yu explained to his troops that without the pots and the ships, they had no other choice but to fight their way to victory or perish. That did not earn Xiang Yu a place on the Chinese army’s list of favorite commanders, but it did have a tremendous focusing efefct on his troops: grabbing their lances and bows, they charged ferociously against the enemy and won nine consecutive battles, completely obliterating the main-force units of the Qin dynasty. 
 
 Xiang Yu acts opposite to common-sense in this story; a normal human strives to keep as many doors open as possible. Not only would we preserve our food and ships, we would make sure of some sort of backup for both—live to fight another day. **We can not stand the idea of closing doors.**
@@ -200,7 +200,7 @@ Our desire to keep doors open is harmful, but keeping doors that are worthless o
 
 But the struggle goes on. Picking between two similar options is often as tough as closing down doors. In these sort of choices, we often grind the issue down into small details that we bicker over endlessly. In so doing, we tend to ignore the consequences of not choosing at all!
 
-## Review
+### Review
 Starts off decent, but as the writer uses the exact same format for each chapter it gets old quick. The format itself is:
 1. Bring up example
 2. Talk about how it’s related to your hypothesis
@@ -211,7 +211,7 @@ Certainly, a solid application of the scientific method (mostly), but it gets dr
 
 But what I do know is that, as the chapters go on, Dan tries to explain the same problems of the human condition that many other materialists have tried to. No offense, but this is certainly taking on a task that is somewhat above him, or at least above the topic of behavioral economics. At the same time, he draws increasingly sketchy conclusions from his experiments. They leave me with that instinctual feeling that ‘there’s something wrong here’. I’ve stopped my notes past Chapter 9 for this reason. 
 
-## Summary
+### Summary
 - Most of our mistakes are predictably irrational, and by understanding the behaviors that lead to them better, we can make less of these mistakes.
 - Our decisions are often informed not by absolute values, but by **comparison**. Furthermore, we not only tend to compare things with one another but also tend to focus on comparing things that are easily comparable—and *we avoid comparing things that cannot be compared easily*. If we can only find value in comparisons, this leads to us basing our **satisfaction** on comparisons, especially on matters related to money and relationships.
 - When we buy a product at a certain price, we become '**anchored**' to that price. This is '**arbitrary coherence**'; *initial prices are arbitrary, but they shape our perception of later prices*. Anchors are not forever; *we gradually change our anchors as we are exposed to change*. This leads into **herding**: when you see many people doing a certain thing, you are more inclined to do that thing yourself. This is **behavior herding**. In **self-herding**, you are herding, but instead of herding behind other peoples' decisions, *you are herding behind your own past decisions, your anchors*.

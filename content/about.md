@@ -1,9 +1,9 @@
 ---
 title: "About Me"
 ---
-## Ghassan Shahzad
+### Ghassan Shahzad
 
-### Contacts
+#### Contacts
 
 - **Email**: ghass.shahzad@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ghassbomb)
@@ -11,7 +11,7 @@ title: "About Me"
 - **Site**: [Site](https://ghassbomb.github.io)
 - **Location**: Lahore, Pakistan
 
-### Education
+#### Education
 
 - Abu Dhabi International School; Abu Dhabi, United Arab Emirates
 - Beaconhouse Newlands; Lahore, Pakistan
@@ -19,25 +19,25 @@ title: "About Me"
 - Roots IVY Internation School; Lahore, Pakistan
   - *2018—2023*
 
-### Research Experience
+#### Research Experience
 
 - No research experience provided.
 
-### Work Experience
+#### Work Experience
 
 - No work experience provided.
 
-### Projects
+#### Projects
 
 {{% projects %}}
 
-### Skills
+#### Skills
 
 - **Programming Languages**: Python, HTML, CSS
 - **Technologies**: Git, Bash, UNIX
 - **Frameworks**: Flask, Hugo
 
-### Interests
+#### Interests
 
 - Large-drawn fantasy and sci-fi.
 - Tech (duh!)

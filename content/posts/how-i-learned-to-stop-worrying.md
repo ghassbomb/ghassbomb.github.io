@@ -12,7 +12,7 @@ summary: In which I use the help of Henry Hazlitt to debunk fears regarding the 
 
 Much hub-bub has been made over the ‘new’ specter of AI that is lurking over the corner of every sector of the economy and is apparently going to [kill us all.](https://www.trtworld.com/magazine/researchers-warn-ai-could-one-day-kill-everyone-12777330) Technological fears are, of course, **not new**. I doubt most people buy the extermination nonsense, but I do imagine that quite a few are vaguely worried about losing their jobs, or a general loss in employment. These people *miss* a general point in economics that I will call upon Henry Hazlitt to explain. 
 
-## The Distant Past
+### The Distant Past
 
 Firstly, fears of automation increasing unemployment have been constant since about the Industrial Revolution, and even *before* it! Henry credits it as one of the most ‘**viable of all economic delusions**’, which makes sense given how disputing it  would touch upon multiple disciplines—clearly beyond the layman’s capability. An obvious fallacy in the thought, however, is merely looking at immediate consequences. This is something Henry rails against in his book—‘Economics in One Simple Lesson’—quite a bit. ‘**The art of economics consists in looking not merely at the immediate but at the longer effects of any act or policy**’ as Henry phrases it.
 
@@ -38,7 +38,7 @@ An obvious lesson we can extract is that, once machinery has ‘stolen jobs’, 
 
 Even in the 70s, around the time Henry published (my edition of) his book, there were still fears about automation. Martin Luther King Jr. brought up *his* [fears](https://medium.com/basic-income/martin-luther-king-jr-warned-us-of-the-dangers-of-jobs-automation-10-quotes-5c51931d4a91) of the effects of automation on employment in many speeches.
 
-## The Problem in the Argument
+### The Problem in the Argument
 
 The argument these technophobes make is that automation and machinery decrease the demand for labor and displace it. But, if they were to **stretch this argument out**, we could say that *solving unemployment would merely involve making all labor as inefficient and unproductive as possible.* And yet, *inefficient and unproductive labor is a general drain on the economy and is one reason that underdeveloped economies are such.* Nobody argues for an inefficient and unproductive populace because that wouldn’t be much better than an unemployed populace. And yet, that is exactly what fearmongers argue for. 
 
