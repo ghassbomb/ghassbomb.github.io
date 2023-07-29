@@ -7,7 +7,7 @@ categories:
 tags:
   - Fantasy
 draft: false
-summary: My notes for the book 'Predictably Irrational', a decent if not repetitive book on behavioral econ with some weirdly iffy conclusions.
+summary: In which I review 'The Second Sons Trilogy' by Jennifer Fallon, a great fantasy book series with quite the cunning protagonist.
 ---
 
 ## The World:
