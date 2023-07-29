@@ -29,7 +29,7 @@ title: "About Me"
 
 ### Projects
 
-{% projects %}
+{{% projects %}}
 
 ### Skills
 
