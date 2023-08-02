@@ -1,44 +1,55 @@
 ---
-title: "About Me"
+title: “About Me”
 ---
-### Ghassan Shahzad
 
-#### Contacts
+### Personal Information
 
-- **Email**: ghass.shahzad@gmail.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ghassbomb)
-- **GitHub**: [GitHub](https://github.com/ghassbomb)
-- **Site**: [Site](https://ghassbomb.github.io)
-- **Location**: Lahore, Pakistan
+- **Name:** Ghassan Shahzad
+- **Location:** Lahore, Punjab, Pakistan
+- **Email:** ghass.shahzad@gmail.com
+- **Website:** [You’re on it!](https://ghassbomb.github.io)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ghassbomb/)
 
-#### Education
+### Education
 
-- Abu Dhabi International School; Abu Dhabi, United Arab Emirates
-- Beaconhouse Newlands; Lahore, Pakistan
-  - *2014—2018*
-- Roots IVY Internation School; Lahore, Pakistan
-  - *2018—2023*
+- **PYPs**
+  - **Beaconhouse Newlands**, Lahore
+  - *Date of Graduation*: 2018
+- **IGCSEs**
+  - **Roots IVY International School**, Lahore
+  - *Date of Graduation*: June, 2023
 
-#### Research Experience
 
-- No research experience provided.
-
-#### Work Experience
+### Work Experience
 
 - No work experience provided.
 
-#### Projects
+### Skills
 
-{{% projects %}}
+- **Programming Languages:** Python, HTML, CSS, JS, C, Rust
+- **Technologies**: Git, and the UNIX tools (bash scripting, nginx, etc.)
+- **Frameworks:** Flask, Hugo, 
 
-#### Skills
+### Projects
 
-- **Programming Languages**: Python, HTML, CSS
-- **Technologies**: Git, Bash, UNIX
-- **Frameworks**: Flask, Hugo
+#### This Website | [GitHub](https://github.com/ghassbomb/ghassbomb.github.io)
 
-#### Interests
+- **Description:** Made with Hugo and GrUvTeX.
 
-- Large-drawn fantasy and sci-fi.
+#### Shahugo (ARCHIVED) | [GitHub](https://github.com/ghassbomb/shahugo)
+
+- **Description:** My own Hugo blogging theme.
+
+#### GrUvTeX | [GitHub](https://github.com/ghassbomb/gruvtex)
+
+- **Description:** GrUvTeX is a LaTeX-inspired theme that utilizes the various gruvbox color schemes to provide an easy-on-the-eyes blog for large, technical (or otherwise) content.
+
+#### MCQambridge | [GitHub](https://github.com/ghassbomb/mcqambridge)
+
+- **Description:** MCQambridge is an automated MCQ past paper solving application for Cambridge A-levels & IGCSE, created to simplify the process of checking answers, calculating scores, and percentages.
+
+### Interests
+
+- Large-drawn fantasy and sci-fi
 - Tech (duh!)
-- Economics & political economy.
+- Economics and classical (liberal) political economy specifically.

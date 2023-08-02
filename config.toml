@@ -85,27 +85,6 @@ name = 'StackOverflow'
 icon = "fa-brands fa-stack-overflow"
 link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
 
-[params.projects]
-[[params.projects.list]]
-title = "This Website"
-href = "https://github.com/ghassbomb/ghassbomb.github.io"
-description = "Made with Hugo and GrUvTeX."
-
-[[params.projects.list]]
-title = "Shahugo (ARCHIVED)"
-href = "https://github.com/ghassbomb/shahugo"
-description = "My own Hugo blogging theme."
-
-[[params.projects.list]]
-title = "GrUvTeX"
-href = "https://github.com/ghassbomb/shahugo"
-description = "GrUvTeX is a LaTeX-inspired theme that utilizes the various gruvbox color schemes to provide an easy-on-the-eyes blog for large, technical (or otherwise) content."
-
-[[params.projects.list]]
-title = "MCQambridge"
-href = "https://github.com/ghassbomb/mcqambridge"
-description = "MCQambridge is an automated MCQ past paper solving application for Cambridge A-levels & IGCSE, created to simplify the process of checking answers, calculating scores, and percentages."
-
 [taxonomies]
 category = 'categories'
 tag = 'tags'
