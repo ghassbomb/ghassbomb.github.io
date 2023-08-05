@@ -2,7 +2,6 @@ baseURL = 'https://ghassbomb.github.io/'
 languageCode = 'en-us'
 title = 'Ghassan Shahzad'
 theme = 'gruvtex'
-description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
 disqusShortname = "ghassan-shahzad"
 googleAnalytics = 'G-DLSVNLVBTV'
 
@@ -59,6 +58,8 @@ dateFormat = "January 2, 2006"
 showWordCount = true
 showReadingTime = true
 since = "2023"
+description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
+
 
 [[params.social]]
 name = 'Github'
