@@ -89,6 +89,7 @@ link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
 [taxonomies]
 category = 'categories'
 tag = 'tags'
+series = 'series'
 
 [frontmatter]
 date = ['date']
