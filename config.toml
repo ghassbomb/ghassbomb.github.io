@@ -4,6 +4,7 @@ title = 'Ghassan Shahzad'
 theme = 'gruvtex'
 disqusShortname = "ghassan-shahzad"
 googleAnalytics = 'G-DLSVNLVBTV'
+staticDir = ["static"]
 
 [menu]
 [[menu.main]]
