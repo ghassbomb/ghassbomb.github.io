@@ -1,7 +1,8 @@
 ---
 title: About Me
 ---
-
+>All that we see or seem \
+Is but a dream within a dream.
 ### Personal Information
 
 - **Name:** Ghassan Shahzad
@@ -50,6 +51,7 @@ title: About Me
 
 ### Interests
 
-- Large-drawn fantasy and sci-fi
+- Large-drawn fantasy and sci-fi (particularly 70s–90s anime)
+- Romantic poetry
 - Tech (duh!)
 - Economics and classical (liberal) political economy specifically.
