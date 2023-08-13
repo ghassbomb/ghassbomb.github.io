@@ -1,8 +1,16 @@
 ---
 title: About Me
 ---
->All that we see or seem \
-Is but a dream within a dream.
+<span style="display: flex;">
+<img src="/images/pfp.png" style="width: 100px; height: 100px;">
+
+<blockquote style="width:80%;margin:0;padding:1rem 0 1rem 1.5rem;margin-left:0.5rem;">
+<p><i>All that we see or seem <br>
+Is but a dream within a dream.</i></p>
+</blockquote>
+
+</span>
+
 ### Personal Information
 
 - **Name:** Ghassan Shahzad
