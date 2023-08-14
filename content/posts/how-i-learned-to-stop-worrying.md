@@ -3,7 +3,7 @@ title: "How I Learned to Stop Worrying and Love the AI"
 date: 2023-06-14T15:57:23+05:00
 author: "Ghassan Shahzad"
 categories: 
-  - Economics
+  - Advice
 tags:
   - Artificial Intelligence
 draft: false
