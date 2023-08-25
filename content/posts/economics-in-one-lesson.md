@@ -64,7 +64,7 @@ The same is not true of the government, and in fact *must not be true*. If the g
 
 ### Chapter VII — The Curse of Machinery
 
-See [article](./how-i-learned-to-stop-worrying.md).
+See [article](https://ghassbomb.github.io/posts/how-i-learned-to-stop-worrying/).
 
 ### Chapter VIII — Spread-the-Work Schemes
 
@@ -87,7 +87,7 @@ A common argument against downsizing government and the armed forces is based on
 
 ### Chapter X — The Fetish of Full Employment
 
-The goal in policymaking for a nation is to get the *most* for the *least* effort. This involves increasing employment *and* productivity—basically the $ worth of the goods and services produced by the mean worker. When *all* of its men are creating lots-of/high-quality things, a nation is at its highest. But this does not require that we be obsessed with full-employment—which is a byproduct of the aforementioned arrangement. If we confuse the two, it becomes a problem in and of itself. It is easy to create full-employment when we revert to primitive means of production—as discussed in [chapter 7](#chapter-vii-the-curse-of-machinery) and [chapter 8](#chapter-viii-spread-the-work-schemes), but that confuses our goals—which should be prosperity—with the means (high productivity and employment).
+The goal in policymaking for a nation is to get the *most* for the *least* effort. This involves increasing employment *and* productivity—basically the $ worth of the goods and services produced by the mean worker. When *all* of its men are creating lots-of/high-quality things, a nation is at its highest. But this does not require that we be obsessed with full-employment—which is a byproduct of the aforementioned arrangement. If we confuse the two, it becomes a problem in and of itself. It is easy to create full-employment when we revert to primitive means of production—as discussed in [chapter 7](#chapter-viii--spread-the-work-schemes) and [chapter 8](#chapter-ix--disbanding-troops-and-bureaucrats), but that confuses our goals—which should be prosperity—with the means (high productivity and employment).
 
 ### Chapter XI — Who’s “Protected” by Tariffs
 

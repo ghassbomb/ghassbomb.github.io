@@ -19,7 +19,7 @@ weight = 2
 identifier = "archives"
 [[menu.main]]
 name = "Projects"
-url = "https://github.com/ghassbomb"
+url = "/projects"
 weight = 3
 identifier = "projects"
 [[menu.main]]
