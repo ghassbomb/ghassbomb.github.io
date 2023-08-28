@@ -35,9 +35,3 @@ Hi, I'm <span style="font-family: var(--font-sc);">**Ghassan Shahzad**</span>. I
   - Git, UNIX mastery, React.js, Node.js
 
 For a completely in-depth view of my various skills, check out my [roadmap](/roadmap) of things I'm learning and things I've learned.
-### Interests
-
-- Large-drawn fantasy and sci-fi (particularly 70s–90s anime)
-- English Romanticism
-- Technology (duh!)
-- Economics, classical (liberal) political economy specifically.
