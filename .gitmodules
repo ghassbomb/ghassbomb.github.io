@@ -1,3 +1,6 @@
 [submodule "themes/gruvtex"]
 	path = themes/gruvtex
 	url = https://github.com/ghassbomb/GrUvTeX
+[submodule "themes/mytheme"]
+	path = themes/mytheme
+	url = https://github.com/tummychow/lanyon-hugo
