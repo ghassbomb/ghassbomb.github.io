@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  {{- partial "head.html" . -}}
+  <body>
+    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+    {{- partial "sidebar.html" . -}}
+    <div class="wrap">
+      {{- partial "header.html" . -}}
+      <div class="container content">{{- block "main" . }}{{- end }}</div>
+    </div>
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  </body>
+</html>

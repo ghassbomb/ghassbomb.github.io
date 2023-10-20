@@ -8,10 +8,6 @@ tags:
   - Insert your
   - tags
   - here.
-series:
-  - Insert your series (if it exists) here
-draft: true
 summary: Insert a summary here.
-mermaid: false
-pinned: false
+draft: true
 ---

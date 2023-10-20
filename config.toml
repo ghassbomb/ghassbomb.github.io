@@ -1,96 +1,18 @@
 baseURL = 'https://ghassbomb.github.io/'
 languageCode = 'en-us'
 title = 'Ghassan Shahzad'
-theme = 'gruvtex'
+theme = 'minblog'
 disqusShortname = "ghassan-shahzad"
 googleAnalytics = 'G-DLSVNLVBTV'
 staticDir = ["static"]
 
-[menu]
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Archives"
-url = "/posts"
-weight = 2
-identifier = "archives"
-[[menu.main]]
-name = "Projects"
-url = "/projects"
-weight = 3
-identifier = "projects"
-[[menu.main]]
-name = "Roadmap"
-url = "/roadmap"
-weight = 4
-identifier = "roadmap"
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 5
-identifier = "tags"
-[[menu.main]]
-name = "Categories"
-url = "/categories"
-weight = 6
-identifier = "categories"
-[[menu.main]]
-name = "About Me"
-url = "/about"
-weight = 7
-identifier = "about"
-
 [params]
-keywords = [
-  "python",
-  "latex",
-  "light",
-  "minimal",
-  "responsive",
-  "simple",
-  "gruvbox",
-  "programming",
-  "coding",
-  "books",
-  "history",
-  "hugo",
-  "linux",
-  "macos",
-]
+
 dateFormat = "January 2, 2006"
 showWordCount = true
 showReadingTime = true
 since = "2023"
-description = 'A blog and a portfolio in equal measure, with book notes, content reviews, and history, among other interests…'
-
-
-[[params.social]]
-name = 'Github'
-icon = "fab fa-github"
-link = "https://github.com/ghassbomb"
-[[params.social]]
-name = 'Instagram'
-icon = "fab fa-instagram"
-link = "https://instagram.com/ghassanshahzad"
-[[params.social]]
-name = 'Goodreads'
-icon = "fab fa-goodreads"
-link = "https://goodreads.com/ghass_bomb"
-[[params.social]]
-name = 'Linkedin'
-icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/ghassbomb/"
-[[params.social]]
-name = 'Mail'
-icon = "fa-solid fa-envelope"
-link = "mailto:ghass.shahzad@gmail.com"
-[[params.social]]
-name = 'StackOverflow'
-icon = "fa-brands fa-stack-overflow"
-link = "https://stackoverflow.com/users/11578707/ghassan-shahzad/"
+description = 'A blog and a portfolio in equal measure, with book notes, among other interests…'
 
 [taxonomies]
 category = 'categories'

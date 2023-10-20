@@ -9,7 +9,6 @@ tags:
   - Political Economy
 draft: false
 summary: In which I summarize the points of Henry Hazlitt's book Economics in One Lesson—a libertarian treatise.
-pinned: false
 ---
 
 ## Blurb

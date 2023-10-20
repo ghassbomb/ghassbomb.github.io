@@ -10,7 +10,6 @@ tags:
   - Web Design
 draft: false
 summary: In which I compile multiple books, and dozens of articles, worth of web typography wisdom.
-pinned: true
 ---
 
 ## Introduction

@@ -9,8 +9,6 @@ tags:
   - Investing
 draft: true
 summary: Insert a summary here.
-mermaid: false
-pinned: false
 ---
 *By: Ghassan Shahzad | [Email](mailto:ghass.shahzad@gmail.com) | [Blog](https://ghassbomb.github.io)*
 

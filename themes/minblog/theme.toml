@@ -1,0 +1,28 @@
+min_version = "0.115.4"
+name = "minblog"
+license = "MIT"
+licenselink = "https://github.com/ghassbomb/GrUvTeX/blob/master/LICENSE"
+description = "minblog is a simple Hugo blog theme that utilizes the various gruvbox color schemes."
+homepage = "http://ghassbomb.github.io/"
+tags = [
+  "python",
+  "blog",
+  "light",
+  "minimal",
+  "responsive",
+  "simple",
+  "gruvbox",
+  "programming",
+  "coding",
+  "books",
+  "history",
+  "hugo",
+  "linux",
+  "macos",
+]
+features = ["blog"]
+
+
+[author]
+name = "Ghassan Shahzad"
+homepage = "https://github.com/ghassbomb/"

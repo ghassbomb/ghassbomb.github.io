@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<div class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  <span class="post-date"
+    ><i class="fa-solid fa-calendar"></i> {{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }} · {{ range .Params.categories }}
+    <i class="fa-solid fa-grip"></i> <b
+      ><a href='{{ "categories" | absURL }}/{{ . | urlize }}'
+        >{{ . }}</a
+      ></b
+    ></br>
+    {{ end }}
+    <b>Tags:</b>
+    <ul>
+      {{ range .Params.tags }}
+      <li>
+        <a href='{{ "tags" | absURL }}/{{ . | urlize }}'
+        >{{ . }}</a
+      >
+      </li>
+       {{ end }}
+    </ul>
+     </span
+     >
+  {{ .Content }}
+</div>
+<div class="paginator post-pag">
+  {{ if .PrevInSection }}
+  <a class="pagination-item older" href="{{ .PrevInSection.Permalink }}">← prev</a>
+  {{ else }}
+  <a></a>
+  {{ end }} {{ if .NextInSection }}
+  <a class="pagination-item newer" href="{{ .NextInSection.Permalink }}">next →</a>
+  {{ else }}
+  <a></a>
+  {{ end }}
+</div>
+{{- if .Site.DisqusShortname -}}
+<div class="disqus">
+  <hr />
+  <h2>Comments</h2>
+  {{ template "_internal/disqus.html" . }} {{ end -}}
+</div>
+{{ end }}

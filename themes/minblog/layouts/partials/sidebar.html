@@ -1,0 +1,19 @@
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>
+      {{ .Site.Params.description }}
+    </p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item {{ if .IsHome }} active {{ end }}" href="/">Home</a>
+    <a class="sidebar-nav-item {{ if eq .RelPermalink "/posts/" }} active {{ end }}" href="/posts/">Archives</a>
+    <a class="sidebar-nav-item {{ if eq .RelPermalink "/tags/" }} active {{ end }}" href="/tags/">Tags</a>
+    <a class="sidebar-nav-item {{ if eq .RelPermalink "/categories/" }} active {{ end }}" href="/categories/">Categories</a>
+    <a class="sidebar-nav-item" href="./index.xml">RSS Feed</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>&copy; {{ .Site.Params.since }}–{{ .Site.LastChange.Year }} Ghassan Shahzad</p>
+  </div>
+</div>

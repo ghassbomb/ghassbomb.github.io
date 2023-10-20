@@ -1,0 +1,34 @@
+{{ define "main" }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
+"in" .Site.Params.mainSections) }}
+
+<div class="posts">
+  {{ range .Paginator.Pages }}
+  <div class="post">
+    <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    <span class="post-date"
+      >{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }} · {{ range .Params.categories }}
+      <i class="fa-solid fa-grip"></i> <b
+        ><a href='{{ "categories" | absURL }}/{{ . | urlize }}'
+          >{{ . }}</a
+        ></b
+      >
+      {{ end }}</span
+    >
+    {{ .Summary }}
+  </div>
+  {{ end }}
+</div>
+
+<div class="pagination">
+  {{ if $paginator.HasNext }}
+  <a class="pagination-item older" href="{{ $paginator.Next.URL }}">Older</a>
+  {{ else }}
+  <span class="pagination-item older">Older</span>
+  {{ end }} {{ if $paginator.HasPrev }}
+  <a class="pagination-item newer" href="{{ $paginator.Prev.URL }}">Newer</a>
+  {{ else }}
+  <span class="pagination-item newer">Newer</span>
+  {{ end }}
+</div>
+
+{{ end }}
