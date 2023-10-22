@@ -1,5 +1,5 @@
 ---
-title: "The Intelligent Investor, by Benjamin Graham"
+title: "Notes on 'The Intelligent Investor, by Benjamin Graham'"
 date: 2023-08-28T12:09:17+05:00
 author: "Ghassan Shahzad"
 categories: 
@@ -59,7 +59,7 @@ summary: Insert a summary here.
 
 ## 5 — For the Defensive Investor: Expanded
 
-### 5.1 — On Stonks
+### 5.1 — On Stocks
 
 - Graham argues that *passive* investors get low-returns—those intelligent investors willing to get their hands dirty will ensure a maximum return, regardless of aggressive or defensive portfolios.
 - It all begins with determining your *bond-stock ratio*. The most plain configuration would be 50:50 (bonds:stock), with 25:75 or 75:25 if the market is down and the market is up, respectively. 
@@ -73,7 +73,7 @@ summary: Insert a summary here.
 - The second is a bit different. In picking bonds, do you want a bond that yields lower annually and does not promise returns on gains that occur but is safer (short-term), or the opposite (long-term)? If interest rates rise, for instance, short-term bonds fall less, but if interest rates fall, they also rise less. Medium-term bonds are usually the best choice, if you don’t want to put too much thought into it.
 - Another factor might be: do you need investments to *supplement* your actual income/month? In that case, invest more on short-term bonds.
 
-## 6 — On Common Stonks
+## 6 — On Common Stocks
 
 - Even in the *worst* of conditions, a common-stock portfolio alongside your bonds would be better than an all-bond holding. Common stocks offer greater returns (incl. dividends) than bonds, and thus function as somewhat better hedges against inflation.
 - On picking your portfolio, Graham offers the following advice: ensure you are diversified—in between a minimum of 10 stocks and a maximum of 30; do your due dilligence on these company picks—ensure they are large and conservatively/prudently financed; Ensure a long dividend payments history—most DJIA companies abide by this, generally, but 10 years should be the minimum; the price you’re willing to pay for a stock should be decided by the average earnings of said stock over the past 10-years—namely, you should not be paying more than 25x these average earnings. Basically, if the P/E ratio of a company—where the E is its earnings averaged over the last 10 years—is >25, do not buy.

@@ -1,5 +1,5 @@
 ---
-title: "Economics in One Lesson, by Henry Hazlitt"
+title: "Notes on 'Economics in One Lesson, by Henry Hazlitt'"
 date: 2023-08-14T16:41:44+05:00
 author: "Ghassan Shahzad"
 categories: 
@@ -8,7 +8,7 @@ tags:
   - Economics
   - Political Economy
 draft: false
-summary: In which I summarize the points of Henry Hazlitt's book Economics in One Lesson—a libertarian treatise.
+summary: Henry Hazlitt's book is a brilliant introduction to the more abstract — less mathematical, more political — ideas of economics, with an honest libertarian bias. 
 ---
 
 ## Blurb
