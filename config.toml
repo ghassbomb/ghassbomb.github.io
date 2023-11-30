@@ -12,7 +12,7 @@ dateFormat = "January 2, 2006"
 showWordCount = true
 showReadingTime = true
 since = "2023"
-description = 'A window into the circus of my thoughts...'
+description = 'Tanto buon che val niente.'
 
 [taxonomies]
 category = 'categories'
