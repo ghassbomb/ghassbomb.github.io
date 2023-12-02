@@ -7,7 +7,7 @@
     <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
     <span class="post-date"
       >{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }} · {{ range .Params.categories }}
-      <i class="fa-solid fa-grip"></i> <b
+ <b
         ><a href='{{ "categories" | absURL }}/{{ . | urlize }}'
           >{{ . }}</a
         ></b

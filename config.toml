@@ -31,10 +31,10 @@ changefreq = 'monthly'
 filename = 'sitemap.xml'
 priority = 0.5
 
-[author]
+[params.author]
 name = "Ghassan Shahzad"
 location = "Lahore"
 
 [markup.tableOfContents]
-    endLevel = 5
-    startLevel = 2
+endLevel = 5
+startLevel = 2

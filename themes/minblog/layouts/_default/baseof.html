@@ -6,11 +6,9 @@
   <body>
     <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" />
     {{- partial "sidebar.html" . -}}
-    <div class="wrap">
+    <div class="container">
       <header>{{- partial "header.html" . -}}</header>
-      <main>
-        <div class="container content">{{- block "main" . }}{{- end }}</div>
-      </main>
+      <main>{{- block "main" . }}{{- end }}</main>
     </div>
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
   </body>

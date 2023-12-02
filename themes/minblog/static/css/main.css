@@ -254,9 +254,9 @@ main {
   grid-row: 2 / 3;
 }
 
-.wrap {
+.container {
   display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
   position: relative;
   width: 100%;
 }
@@ -264,9 +264,11 @@ main {
 /* header */
 
 header {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
 }
@@ -366,17 +368,6 @@ a.sidebar-nav-item:focus {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
-@media (min-width: 48em) {
-  .sidebar-item {
-    background-color: #202020;
-    padding: 1.5rem;
-  }
-  .sidebar-nav-item {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-}
-
 .sidebar-checkbox {
   position: absolute;
   opacity: 0;
@@ -427,14 +418,14 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.wrap,
+.container,
 .sidebar,
 .sidebar-toggle {
   -webkit-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
 }
-.wrap,
+.container,
 .sidebar-toggle {
   -webkit-transition: -webkit-transform 0.3s ease-in-out;
   transition: transform 0.3s ease-in-out;
@@ -445,7 +436,7 @@ a.sidebar-nav-item:focus {
   visibility: visible;
 }
 #sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .wrap,
+#sidebar-checkbox:checked ~ .container,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   -webkit-transform: translateX(14rem);
   -ms-transform: translateX(14rem);
@@ -553,7 +544,7 @@ a.pagination-item:hover {
 }
 
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
-.layout-reverse #sidebar-checkbox:checked ~ .wrap,
+.layout-reverse #sidebar-checkbox:checked ~ .container,
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
   -webkit-transform: translateX(-14rem);
   -ms-transform: translateX(-14rem);
@@ -562,7 +553,7 @@ a.pagination-item:hover {
 
 /* overlay sidebar */
 
-.sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
+.sidebar-overlay #sidebar-checkbox:checked ~ .container {
   -webkit-transform: translateX(0);
   -ms-transform: translateX(0);
   transform: translateX(0);
@@ -577,12 +568,4 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -0.25rem 0 0.5rem rgba(0, 0, 0, 0.1);
-}
-
-.container {
-  max-width: 38rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  margin-left: auto;
-  margin-right: auto;
 }

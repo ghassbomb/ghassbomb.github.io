@@ -3,8 +3,8 @@
 <div class="post">
   <h1 class="post-title">{{ .Title }}</h1>
   <span class="post-date"
-    ><i class="fa-solid fa-calendar"></i> {{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }} · {{ range .Params.categories }}
-    <i class="fa-solid fa-grip"></i> <b
+    >{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }} · {{ range .Params.categories }}
+    <b
       ><a href='{{ "categories" | absURL }}/{{ . | urlize }}'
         >{{ . }}</a
       ></b
