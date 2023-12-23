@@ -9,7 +9,7 @@ tags:
 draft: false
 summary: Dan Ariely's book is well-put in certain parts, generally repetitive, and is prone to some more iffy conclusions.
 ---
-Full notes can be downloaded <a href="https://www.dropbox.com/s/iwyf74427k1vpyb/Notes%20-%20Predictably%20Irrational%2C%20by%20Dan%20Ariely.pdf?dl=0" target="_blank">here</a>
+Full notes can be downloaded <a href="https://www.dropbox.com/scl/fi/yfmxinh35axa0vmsqlk8z/Predictably-Irrational-by-Dan-Ariely.pdf?rlkey=p2jytjeirn02l6v5obxj5pell&dl=0" target="_blank">here</a>
 
 ### Introduction
 > We are not only irrational, but predictably irrational—that our irrationality happens the same way, again and again. Whether we are acting as consumers, business-people, or policymakers, understanding how we are predictably irrational provides a starting point for improving our decision-making and changing the way we live for the better. 
