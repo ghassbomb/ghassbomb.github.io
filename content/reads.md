@@ -1,0 +1,338 @@
+---
+title: Reads
+layout: reads
+---
+
+## Currently Reading
+
+<div id="gr_grid_widget_1710277076">
+    <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+    <div class="gr_grid_container">
+        <div class="gr_grid_book_container">
+            <a
+                title="The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy"
+                ><img
+                    alt="The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438471992l/31795._SY160_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="How to Prove It: A Structured Approach"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/739735.How_to_Prove_It"
+                ><img
+                    alt="How to Prove It: A Structured Approach"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348436668l/739735._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="The Psychology of Money"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money"
+                ><img
+                    alt="The Psychology of Money"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Linear Algebra (Undergraduate Texts in Mathematics)"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/681185.Linear_Algebra"
+                ><img
+                    alt="Linear Algebra"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348114891l/681185._SX98_.jpg"
+            /></a>
+        </div>
+        <noscript
+            ><br />Share <a rel="nofollow" href="/">book reviews</a> and ratings
+            with Ghassan, and even join a
+            <a rel="nofollow" href="/group">book club</a> on
+            Goodreads.</noscript
+        >
+    </div>
+</div>
+<script
+src="https://www.goodreads.com/review/grid_widget/160780291.Ghassan's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=currently-reading&sort=date_added&widget_id=1710277076"
+type="text/javascript"
+charset="utf-8"></script>
+
+## Backlog
+
+<div id="gr_grid_widget_1710277268">
+    <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+    <div class="gr_grid_container">
+        <div class="gr_grid_book_container">
+            <a
+                title="Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma"
+                ><img
+                    alt="Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920943l/29506._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Game Theory: A Nontechnical Introduction (Dover Books on Mathematics)"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/229281.Game_Theory"
+                ><img
+                    alt="Game Theory: A Nontechnical Introduction"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328866524l/229281._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Theory of Games and Economic Behavior"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/483055.Theory_of_Games_and_Economic_Behavior"
+                ><img
+                    alt="Theory of Games and Economic Behavior"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347376573l/483055._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Basic Economics: A Citizen's Guide to the Economy"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/3023.Basic_Economics"
+                ><img
+                    alt="Basic Economics: A Citizen's Guide to the Economy"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388328985l/3023._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Capital in the Twenty First Century"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century"
+                ><img
+                    alt="Capital in the Twenty First Century"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390111547l/18736925._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Debt: The First 5,000 Years"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/6617037-debt"
+                ><img
+                    alt="Debt: The First 5,000 Years"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390408633l/6617037._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="The Road to Serfdom"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom"
+                ><img
+                    alt="The Road to Serfdom"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327787673l/299215._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="The McKinsey Way"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/206260.The_McKinsey_Way"
+                ><img
+                    alt="The McKinsey Way"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348201906l/206260._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Playing to Win: How Strategy Really Works"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/13586928-playing-to-win"
+                ><img
+                    alt="Playing to Win: How Strategy Really Works"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369869853l/13586928._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/4898.Blue_Ocean_Strategy"
+                ><img
+                    alt="Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416445924l/4898._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Competitive Strategy: Techniques for Analyzing Industries and Competitors"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/407999.Competitive_Strategy"
+                ><img
+                    alt="Competitive Strategy: Techniques for Analyzing Industries and Competitors"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347564683l/407999._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="The Art of Strategy: A Game Theorist's Guide to Success in Business and Life"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy"
+                ><img
+                    alt="The Art of Strategy: A Game Theorist's Guide to Success in Business and Life"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347728926l/2423424._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Good to Great: Why Some Companies Make the Leap... and Others Don't"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/76865.Good_to_Great"
+                ><img
+                    alt="Good to Great: Why Some Companies Make the Leap... and Others Don't"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546097703l/76865._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Your Strategy Needs a Strategy: How to Choose and Execute the Right Approach"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/23258983-your-strategy-needs-a-strategy"
+                ><img
+                    alt="Your Strategy Needs a Strategy: How to Choose and Execute the Right Approach"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411447564l/23258983._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Competitive Advantage: Creating and Sustaining Superior Performance"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/134776.Competitive_Advantage"
+                ><img
+                    alt="Competitive Advantage: Creating and Sustaining Superior Performance"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347560760l/134776._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="The Prince"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/28862.The_Prince"
+                ><img
+                    alt="The Prince"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828l/28862._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Beyond Good and Evil"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/12321.Beyond_Good_and_Evil"
+                ><img
+                    alt="Beyond Good and Evil"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388607391l/12321._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="Man’s Search for Meaning"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning"
+                ><img
+                    alt="Man’s Search for Meaning"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="The Goal: A Process of Ongoing Improvement"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/113934.The_Goal"
+                ><img
+                    alt="The Goal: A Process of Ongoing Improvement"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475538019l/113934._SX98_.jpg"
+            /></a>
+        </div>
+        <div class="gr_grid_book_container">
+            <a
+                title="High Output Management"
+                rel="nofollow"
+                href="https://www.goodreads.com/book/show/324750.High_Output_Management"
+                ><img
+                    alt="High Output Management"
+                    border="0"
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347800461l/324750._SX98_.jpg"
+            /></a>
+        </div>
+        <noscript
+            ><br />Share <a rel="nofollow" href="/">book reviews</a> and
+            ratings with Ghassan, and even join a
+            <a rel="nofollow" href="/group">book club</a> on
+            Goodreads.</noscript
+        >
+    </div>
+</div>
+<script
+    src="https://www.goodreads.com/review/grid_widget/160780291.Ghassan's%20to-read%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=to-read&sort=date_added&widget_id=1710277268"
+    type="text/javascript"
+    charset="utf-8"
+></script>
+
+## Finished
+
+<div id="gr_grid_widget_1710277962">
+<!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+    <div class="gr_grid_container">
+<div class="gr_grid_book_container"><a title="When Titans Clashed: How the Red Army Stopped Hitler (Modern War Studies)" rel="nofollow" href="https://www.goodreads.com/book/show/164875.When_Titans_Clashed"><img alt="When Titans Clashed: How the Red Army Stopped Hitler" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348954734l/164875._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="How to Read a Book: The Classic Guide to Intelligent Reading" rel="nofollow" href="https://www.goodreads.com/book/show/567610.How_to_Read_a_Book"><img alt="How to Read a Book: The Classic Guide to Intelligent Reading" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310993739l/567610._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="The Richest Man in Babylon" rel="nofollow" href="https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon"><img alt="The Richest Man in Babylon" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348336780l/1052._SY160_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Make It Stick: The Science of Successful Learning" rel="nofollow" href="https://www.goodreads.com/book/show/18770267-make-it-stick"><img alt="Make It Stick: The Science of Successful Learning" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631768711l/18770267._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones" rel="nofollow" href="https://www.goodreads.com/book/show/40121378-atomic-habits"><img alt="Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="A People's History of American Empire" rel="nofollow" href="https://www.goodreads.com/book/show/1782543.A_People_s_History_of_American_Empire"><img alt="A People's History of American Empire" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312042463l/1782543._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Metaphysics of War" rel="nofollow" href="https://www.goodreads.com/book/show/3131472-metaphysics-of-war"><img alt="Metaphysics of War" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347948681l/3131472._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Oedipus The King" rel="nofollow" href="https://www.goodreads.com/book/show/1579127.Oedipus_The_King"><img alt="Oedipus The King" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389240584l/1579127._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="The Lion of Senet (The Second Sons Trilogy Book 1)" rel="nofollow" href="https://www.goodreads.com/book/show/73869473-the-lion-of-senet"><img alt="The Lion of Senet" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677899824l/73869473._SY160_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Eye of the Labyrinth (Second Sons, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/55443.Eye_of_the_Labyrinth"><img alt="Eye of the Labyrinth" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388350474l/55443._SY160_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Lord of the Shadows (Second Sons, #3)" rel="nofollow" href="https://www.goodreads.com/book/show/274416.Lord_of_the_Shadows"><img alt="Lord of the Shadows" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388350458l/274416._SY160_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Predictably Irrational: The Hidden Forces That Shape Our Decisions" rel="nofollow" href="https://www.goodreads.com/book/show/1713426.Predictably_Irrational"><img alt="Predictably Irrational: The Hidden Forces That Shape Our Decisions" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255573980l/1713426._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics" rel="nofollow" href="https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson"><img alt="Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565397589l/3028._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Pakistan: A Hard Country" rel="nofollow" href="https://www.goodreads.com/book/show/19297155-pakistan"><img alt="Pakistan: A Hard Country" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386537663l/19297155._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Butterick's Practical Typography" rel="nofollow" href="https://www.goodreads.com/book/show/18244760-butterick-s-practical-typography"><img alt="Butterick's Practical Typography" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374851499l/18244760._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Web Typography: A handbook for designing beautiful and effective responsive typography" rel="nofollow" href="https://www.goodreads.com/book/show/35429034-web-typography"><img alt="Web Typography: A handbook for designing beautiful and effective responsive typography" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497380607l/35429034._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Better Web Typography for a Better Web" rel="nofollow" href="https://www.goodreads.com/book/show/35857337-better-web-typography-for-a-better-web"><img alt="Better Web Typography for a Better Web" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501505439l/35857337._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="The Intelligent Investor" rel="nofollow" href="https://www.goodreads.com/book/show/106835.The_Intelligent_Investor"><img alt="The Intelligent Investor" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409602421l/106835._SX98_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Khizr Tiwana, the Punjab Unionist Party and the Partition of India (Soas London Studies on South Asia)" rel="nofollow" href="https://www.goodreads.com/book/show/7348977-khizr-tiwana-the-punjab-unionist-party-and-the-partition-of-india"><img alt="Khizr Tiwana, the Punjab Unionist Party and the Partition of India" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348148158l/7348977._SY160_.jpg" /></a></div>
+<div class="gr_grid_book_container"><a title="Animal Farm" rel="nofollow" href="https://www.goodreads.com/book/show/170448.Animal_Farm"><img alt="Animal Farm" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570l/170448._SY160_.jpg" /></a></div>
+
+<noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Ghassan, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+
+</div>
+
+</div>
+<script src="https://www.goodreads.com/review/grid_widget/160780291.Ghassan's%20read%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=read&sort=date_added&widget_id=1710277962" type="text/javascript" charset="utf-8"></script>

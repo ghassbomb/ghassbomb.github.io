@@ -1,0 +1,42 @@
+<aside>
+	<div class="title">
+		<h1 class="first-name">Ghassan</h1>
+		<h1 class="last-name">Shahzad</h1>
+		<div class="subtitle">A little, brutalist blog-cum-portfolio.</div>
+	</div>
+	<nav class="sidebar-element">
+		<h3>Nav</h3>
+		<ul>
+			<li class="sidebar-listelement"><a href="/">Home</a></li>
+			<li class="sidebar-listelement"><a href="/reads">Reads</a></li>
+			<li class="sidebar-listelement"><a href="/articles">Articles</a></li>
+		</ul>
+	</nav>
+	<div class="sidebar-element">
+		<h3>Recent Posts</h3>
+		<ul class="sidebar-list">
+			{{ $pages := .Pages }} {{ if .IsHome }}{{ $pages =
+			.Site.RegularPages }}{{ end }} {{ range (where $pages "Section" "!="
+			"") | last 5 }}
+			<li class="sidebar-listelement">
+				<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+	<div class="sidebar-element">
+		<h3>Socials</h3>
+		<ul class="sidebar-list">
+            <li class="sidebar-listelement">
+                <a href="https://github.com/ghassbomb/">Github</a>
+            </li>
+            <li class="sidebar-listelement">
+                <a href="https://www.linkedin.com/in/ghassbomb/">Linkedin</a>
+            </li>
+            <li class="sidebar-listelement">
+                <a href="mailto:ghass.shahzad@gmail.com">ghass.shahzad@gmail.com</a>
+            </li>
+        </ul>
+	</div>
+	<div class="footer">© 2023 – Ghassan Shahzad</div>
+</aside>

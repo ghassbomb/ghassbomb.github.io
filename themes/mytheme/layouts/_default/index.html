@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+	{{ partial "head.html" . }}
+	<body>
+		<div class="content">
+			{{ partial "sidebar.html" . }}
+			<main>
+                <article>
+                    {{ .Content }}
+                </article>
+			</main>
+		</div>
+	</body>
+</html>

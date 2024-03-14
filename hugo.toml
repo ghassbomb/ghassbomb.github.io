@@ -1,0 +1,25 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Ghassan Shahzad"
+theme = "mytheme"
+googleAnalytics = ""
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+note = "/note/:year/:month/:day/:slug/"
+post = "/post/:year/:month/:day/:slug/"
+
+[params]
+description = "A little, brutalist blog-cum-portfolio."
+
+[markup.highlight]
+codeFences = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+  block = [ [ "\\[", "\\]" ], [ "$$", "$$" ] ]
+  inline = [ [ "\\(", "\\)" ] ]

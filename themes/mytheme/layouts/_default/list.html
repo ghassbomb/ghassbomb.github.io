@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article>
+	<h1 class="post-title">Articles</h1>
+	<ul>
+		{{ $pages := .Pages }} {{ if .IsHome }}{{ $pages = .Site.RegularPages
+		}}{{ end }} {{ range (where $pages "Section" "!=" "") }}
+		<li>
+			<span class="date" style="transform: rotate(0deg); margin-bottom: 1rem;">{{ .Date.Format "2006/01/02" }}</span> 
+			<a style="margin-left: 0.5rem" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+		</li>
+		{{ end }}
+	</ul>
+</article>
+{{ end }}
