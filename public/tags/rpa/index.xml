@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RPA on Ghassan Shahzad</title>
+    <link>http://localhost:1313/tags/rpa/</link>
+    <description>Recent content in RPA on Ghassan Shahzad</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Nov 2019 09:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rpa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>uipath ノート（三）- uipath orchestrator</title>
+      <link>http://localhost:1313/posts/2019-11-23-uipath-orchestrator/</link>
+      <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019-11-23-uipath-orchestrator/</guid>
+      <description>&lt;h2 id=&#34;利用手順&#34;&gt;利用手順&lt;/h2&gt;&#xA;&lt;p&gt;Official doc: &lt;a href=&#34;https://docs.uipath.com/robot/docs/from-orchestrator-and-the-orchestrator-settings-window&#34;&gt;https://docs.uipath.com/robot/docs/from-orchestrator-and-the-orchestrator-settings-window&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;マシンを追加&#34;&gt;マシンを追加&lt;/h3&gt;&#xA;&lt;p&gt;マシン側でマシン名とユーザ名を確認&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;C:\Users\user&amp;gt;hostname&#xA;DESKTOP-ABCDE5F&#xA;&#xA;C:\Users\user&amp;gt;whoami&#xA;desktop-abcde5f\user&#xA;&#xA;C:\Users\user&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;追加完了後、マシンキーを取得する。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ロボットを登録&#34;&gt;ロボットを登録&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Type: studio (開発用？)&lt;/li&gt;&#xA;&lt;li&gt;Domain/Username: 上記のユーザ名&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ローカルのorchestrator設定&#34;&gt;ローカルのorchestrator設定&lt;/h3&gt;&#xA;&lt;p&gt;Uipath Robotを開き⇒orchestratorの設定で、上記のマシンキーを入力する。&#xA;orchestrator URLに &lt;code&gt;https://platform.uipath.com/&lt;/code&gt; を入力する.&#xA;&lt;code&gt;Invalid machine key&lt;/code&gt;というエラーが出たら、下記のようなURLを試す：&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://platform.uipath.com/&amp;lt;account name&amp;gt;/&amp;lt;service name&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;参照：&lt;a href=&#34;https://forum.uipath.com/t/uipath-orchestrator-error-invalid-machine-key/153438/16&#34;&gt;Uipath orchestrator error : invalid machine key&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;ロボットグループenvironment作成&#34;&gt;ロボットグループ(Environment)作成&lt;/h3&gt;&#xA;&lt;h3 id=&#34;プロジェクトをパブリッシュpublish&#34;&gt;プロジェクトをパブリッシュ(Publish)&lt;/h3&gt;&#xA;&lt;h3 id=&#34;プロセスを追加&#34;&gt;プロセスを追加&lt;/h3&gt;&#xA;&lt;p&gt;Automations　⇒　Processes&lt;/p&gt;&#xA;&lt;h3 id=&#34;ジョブjobsの実行&#34;&gt;ジョブ(Jobs)の実行&lt;/h3&gt;&#xA;&lt;p&gt;Monitoring　⇒　Jobs&lt;/p&gt;&#xA;&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;&#xA;&lt;h3 id=&#34;再パブリッシュするとprocessが最新バージョンを使うため変更作業が必要&#34;&gt;再パブリッシュすると、Processが最新バージョンを使うため、変更作業が必要&lt;/h3&gt;&#xA;&lt;p&gt;Processes　⇒　More Options　⇒　View Process　⇒　最新のバージョンに切り替える&lt;/p&gt;&#xA;&lt;h3 id=&#34;ジョブの停止&#34;&gt;ジョブの停止&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;停止(Stop)：必ずワークフロー内で「停止すべきか確認(Should Stop)」アクティビティを使用する&lt;/li&gt;&#xA;&lt;li&gt;強制終了(Kill)：処理中の内容に関わらず、ジョブを停止する&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;アクティブなジョブは削除できない&#34;&gt;アクティブなジョブは削除できない&lt;/h3&gt;&#xA;&lt;h3 id=&#34;パラメーター変更の優先順位&#34;&gt;パラメーター変更の優先順位&lt;/h3&gt;&#xA;&lt;p&gt;ジョブ (Jobs) -&amp;gt; プロセス (Processes) -&amp;gt; パッケージ(UiPath Studio)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

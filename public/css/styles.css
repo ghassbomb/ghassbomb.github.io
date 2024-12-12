@@ -1,0 +1,141 @@
+:root {
+  font-size: 16px;
+}
+
+/* For browsers that support clamp  */
+@supports (font-size: clamp(1rem, 1vi, 1rem)) {
+  :root {
+		--fs-sm: clamp(0.8rem, 0.34vi + 0.71rem, 0.99rem);
+		--fs-base: clamp(1rem, 0.34vi + 0.91rem, 1.19rem);
+		--fs-md: clamp(1.25rem, 0.32vi + 1.17rem, 1.43rem);
+		--fs-lg: clamp(1.56rem, 0.27vi + 1.5rem, 1.71rem);
+		--fs-xl: clamp(1.95rem, 0.18vi + 1.91rem, 2.05rem);
+		--fs-xxl: clamp(2.44rem, 0.04vi + 2.43rem, 2.46rem);
+		--fs-xxxl: clamp(3.05rem, -0.18vi + 3.1rem, 2.95rem);
+  }
+}
+/* For browsers that don't support clamp */
+@supports not (font-size: clamp(1rem, 1vi, 1rem)) {
+  :root {
+		--fs-sm: 0.8rem;
+		--fs-base: 1rem;
+		--fs-md: 1.25rem;
+		--fs-lg: 1.56rem;
+		--fs-xl: 1.95rem;
+		--fs-xxl: 2.44rem;
+		--fs-xxxl: 3.05rem;
+  }
+  @media screen and (min-width: 1280px) {
+    :root {
+			--fs-sm: 0.99rem;
+			--fs-base: 1.19rem;
+			--fs-md: 1.43rem;
+			--fs-lg: 1.71rem;
+			--fs-xl: 2.05rem;
+			--fs-xxl: 2.46rem;
+			--fs-xxxl: 2.95rem;
+    }
+  }
+}
+
+h1 {
+  font-size: var(--fs-xxl);
+}
+h2 {
+  font-size: var(--fs-xl);
+}
+h3 {
+  font-size: var(--fs-lg);
+}
+h4 {
+  font-size: var(--fs-md);
+}
+h5 {
+  font-size: var(--fs-base);
+}
+h6 {
+  font-size: var(--fs-sm);
+}
+
+#root {
+  font-family: Iosevka, monospace;
+  background-color: #222;
+  color: #ddd;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 3rem;
+  margin-bottom: 1rem;
+}
+#brand {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: center;
+}
+#brand a {
+  color: var(--fontcolor);
+  text-decoration: none;
+  margin-bottom: 0;
+}
+#brand h1, #brand h3 {
+  margin: 0;
+}
+#brand h1 {
+  font-size: var(--fs-xxxl);
+}
+#brand h3 {
+  font-size: var(--fs-md);
+  font-weight: normal;
+}
+#brand .icon {
+  width: 5rem;
+  margin-bottom: 0;
+}
+footer {
+  margin-top: 1.5rem;
+}
+header nav {
+  font-size: var(--fs-sm);
+  margin: 0.5rem 0;
+}
+h1.title {
+  margin: 1.3rem 0 0 0;
+}
+h3.subtitle {
+  font-weight: normal;
+  margin: 0;
+}
+div.post-meta {
+  margin-top: 1.3rem;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  :root{
+    font-size: 19px;
+  }
+  #root {
+    margin-top: 1rem;
+  }
+  #brand {
+    flex-direction: row;
+    text-align: unset;
+  }
+  #brand .text {
+    margin-left: 0.5rem;
+  }
+}
+#terms .term {
+  background-color: white;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 2px;
+  padding: 8px;
+}
+
+.copyright {
+  color: gray;
+  font-size: calc(var(--fs-sm) - 0.25rem);
+  text-align: center;
+  text-transform: uppercase;
+}
