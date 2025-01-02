@@ -4,10 +4,9 @@ author: Ghassan Shahzad
 featured: false
 draft: false
 description: "This page contains my notes and exercises on various mathematics textbooks."
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ceiling_of_Frere_Hall.jpg/2560px-Ceiling_of_Frere_Hall.jpg"
 ---
-This page contains my notes and exercises on various mathematics textbooks. In this regard, I've found the [American Mathematical Society's 'Anneli Lax New Mathematical Library'](https://bookstore.ams.org/nml) collection of books to be quite useful. Their books are short but dense, and targeted to a highschool-undergraduate audience.
-
-My notes are ordered by *topic*. Most are complete LaTeX-generated PDFs, since web browsers are still not great for representing mathematical writings. **Bolded** works are complete, while incomplete works are indicated. Works with hyperlinks/pdfs that are neither bolded nor indicated as incomplete, you can take as the ones I'm currently working on.
+This page contains my notes and exercises on various mathematics textbooks.
 
 - Proof-writing
   - *'Journey into Mathematics: An Introduction to Proofs'* by Joseph J. Rotman

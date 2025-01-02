@@ -1,10 +1,9 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-author: Ghassan Shahzad
+title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 date: {{ .Date }}
-featured: false
-draft: true
+author: "Ghassan Shahzad"
 tags:
   - Example
-description: "Write description here."
+featured_image: ""
+description: ""
 ---

@@ -7,6 +7,7 @@ draft: false
 tags:
   - Aristotle
 description: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alexander_and_Aristotle.jpg"
 ---
 
 Aristotle (384 – 322 BC) was a student of Plato.

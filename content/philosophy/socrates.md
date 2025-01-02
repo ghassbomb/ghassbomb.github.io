@@ -8,6 +8,7 @@ tags:
   - Socrates
 description:
   "Despite what little is known of him directly, and the fact that he wrote no works, Socrates is easily the most influential philosopher of the Western tradition. Not least of his achievements were his tutorship of Plato, and thus his indirect influence on Aristotle."
+featured_image: "https://cdn.britannica.com/09/150009-050-13A45EE8/Death-of-Socrates-canvas-Jacques-Louis-David-New-1787.jpg"
 ---
 
 Despite what *little* is known of him directly, and the fact he wrote no works, Socrates is easily the most influential philosopher of the Western tradition and the model of a philosopher: one who prioritizes reason, and who idolizes virtue. Not least of his achievements were his tutorship of Plato, and thus his indirect influence on Aristotle — probably the two *other* most influential Western philosophers. Socrates is also well-known for his assertion that virtue is knowledge. Socrates likened himself to a gadfly, attached to the city of Athens that he may sting it and prevent its people from becoming complacent — and indeed, he stung it so much that the city had him put to death in fear.

@@ -8,6 +8,7 @@ tags:
   - Plato
 description:
   "If Socrates is the most influential philosopher in the Western tradition, then Plato ought to occupy the seat one rank lower, for it is by Plato that we know Socrates as we do. Furthermore, Plato — as shown in his later works — was a highly original philosopher of his own."
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1920px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
 ---
 
 If [Socrates](/philosophy/socrates) is the most influential philosopher in the Western tradition, then Plato (427 – 348 BC) ought to occupy the seat one rank lower, for it is by Plato that we know Socrates as we do. Furthermore, Plato — as shown in his later works — was a highly original philosopher of his own. He was also, like Socrates, a teacher — he even founded an academy, his Lyceum. From there came his influence upon [Aristotle](/philosophy/aristotle), the next great philosopher of Ancient Greece, and the man to complete the triad — Socrates, Plato, and Aristotle. We know more of Plato then Socrates in a sense, but there are still debates over the authorship of the various works attributed to him and his thought.

@@ -8,6 +8,7 @@ tags:
   - Pre-Socratics
 description:
   "The pre-Socratics — though this may be a broad and perhaps reductionist grouping — were the first tradition in Western philosophy."
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/40/%27Pythagoras_Emerging_from_the_Underworld%27%2C_oil_on_canvas_painting_by_Salvator_Rosa.jpg"
 ---
 
 The pre-Socratics — though this may be a broad and perhaps reductionist grouping — were the first tradition in Western philosophy. Their interests were wide and varied, including the natural sciences, but mostly concerned cosmology and ontology. They followed a linear trend in evolution of thought — most adhered to monism, some developed this into pluralism, and atomism as well. This distinguishes them from later philosophers, starting from Socrates, who focused on more practical matters like ethics and politics — though these men also devoted time to cosmology. These philosophers had their 'heads in the cloud', and would (perhaps unfairly) set the public perception of philosophers for the rest of time.

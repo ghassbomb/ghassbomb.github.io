@@ -1,9 +1,14 @@
 baseURL = "https://ghassbomb.github.io/"
 languageCode = "en-us"
 title = "Ghassan Shahzad"
-theme = "cactus"
+theme = "ananke"
 
-# summaryLength = 2
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
 
 # Main menu which appears below site header.
 [[menu.main]]
@@ -12,81 +17,38 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Writings"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
 name = "Books"
 url = "/books"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Philosophy"
 url = "/philosophy"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Mathematics"
 url = "/mathematics"
-weight = 5
+weight = 4
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 6
+SectionPagesMenu = "posts"
 
-[markup]
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = false
-    noClasses = true
-    style = "dracula"
-    tabWidth = 4
-  [markup.goldmark.renderer]
+[markup.goldmark.renderer]
     unsafe = true
 
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
 [params]
-
-  colortheme = "dark" # dark, light, white, or classic
-  rss = true # generate rss feed. default value is false
-
-  # Home page settings
-  description = "Hobbies: reading, wargaming, jazz, mathematics, and some other stuff. That's what I write about."
-  mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
-  postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
-  showProjectsList = false # show projects list by default (if projects data file exists).
-  
-  dateFormat = "2006-01-02" # default
-
-  # Post page settings
-  show_updated = true # default
-  showReadTime = true # default
-
-  mathjax = true
-
-  [params.comments]
-    enabled = false # default
-
-  # the value of name should be an valid font awesome icon name (brands type)
-  # https://fontawesome.com/icons?d=gallery&s=brands
-  [[params.social]]
-    name = "github"
-    link = "https://github.com/ghassbomb"
-  [[params.social]]
-    name = "email"
-    link = "ghass.shahzad@gmail.com"  # no need for "mailto:" in the head
-  [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/ghassbomb"  # no need for "mailto:" in the head
-
+text_color = ""
+author = "Ghassan Shahzad"
+favicon = "/favicons/favicon.ico"
+site_logo = ""
+featured_image_class = "cover bg-top"
+cover_dimming_class = "bg-black-60"
+description = "Hobbies: reading, wargaming, jazz, mathematics, and some other stuff. That's what I write about."
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-navy"
+recent_posts_number = 5

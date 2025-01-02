@@ -8,6 +8,7 @@ tags:
   - Sophists
 description:
   "The sophists (wise men) were teachers who, for a price, lent their wisdom to the new, affluent classes of Athens in a time of higher learning, culture, and social mobility."
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_3.jpg"
 ---
 
 The *sophists* (wise men) were teachers who, for a price, lent their wisdom to the new, affluent classes of Athens in a time of higher learning, culture, and social mobility. As the Athenians opened up to foreign cultures, new professions and new classes emerged. Athens became a melting pot of cultures and ideas. In this Athens, *education* — rather than noble birth or blood rights — was viewed as a means to social mobility. The modern view of these men has them penned as masters of *rhetoric*; they were indeed teachers and practitioners of this art, but their interests and teachings varied widely. One could say the sophists brought philosophy *back down to earth*, though they still developed on the methods and ideas of the pre-Socratics. Figures such as Plato and Aristotle, however, held that they weren't philosophers at all! They were also reviled by the population at large, but especially the upper classes.
