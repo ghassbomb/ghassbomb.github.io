@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on Ghassan Shahzad</title>
-    <link>https://ghassbomb.github.io/tags/philosophy/</link>
+    <link>http://localhost:1313/tags/philosophy/</link>
     <description>Recent content in Philosophy on Ghassan Shahzad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2024 18:02:32 +0500</lastBuildDate>
-    <atom:link href="https://ghassbomb.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Apology of Socrates, by Plato</title>
-      <link>https://ghassbomb.github.io/posts/apologyofsocrates/</link>
+      <link>http://localhost:1313/posts/apologyofsocrates/</link>
       <pubDate>Tue, 24 Dec 2024 18:02:32 +0500</pubDate>
-      <guid>https://ghassbomb.github.io/posts/apologyofsocrates/</guid>
+      <guid>http://localhost:1313/posts/apologyofsocrates/</guid>
       <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;&#xA;&lt;p&gt;Socrates begins his speech by defending his manners in advance, and criticizing his opponents for the same. He contrasts his simple, unadorned, and even clumsy speech with his opponents&amp;rsquo;: deceitful and clever. In so doing, Socrates seems to assert that the truth can not be attractive, as if any attractive statement must therefore be false. He also contrasts his inexperience in court (this is his first time) with his opponents.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Euthyphro, by Plato</title>
-      <link>https://ghassbomb.github.io/posts/euthyphro/</link>
+      <link>http://localhost:1313/posts/euthyphro/</link>
       <pubDate>Sat, 01 Jun 2024 17:59:55 +0000</pubDate>
-      <guid>https://ghassbomb.github.io/posts/euthyphro/</guid>
+      <guid>http://localhost:1313/posts/euthyphro/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;The dialogue begins with Socrates and Euthyphro providing us some background. Socrates is going to court because a &amp;lsquo;young man&amp;rsquo; named Meletus has brought against him the charges of impiety and corrupting the youth. Socrates trial is &lt;em&gt;not&lt;/em&gt; the focus of this dialgoue, however. (&lt;em&gt;Euthyphro&lt;/em&gt;, 2a-3e)&lt;/p&gt;&#xA;&lt;p&gt;From 4a-e, Euthyphro explains why &lt;em&gt;he&lt;/em&gt; is at court. One of his servants killed Euthyphro&amp;rsquo;s slave in a drunken fit, and Euthyphro&amp;rsquo;s father had him thrown into a ditch while he got a local priest. The servant died in the ditch, and Euthyphro claims his father is at fault. He&amp;rsquo;s got the funny idea that, regardless of the &lt;em&gt;suspect&lt;/em&gt; being a murderer, and regardless of the &lt;em&gt;defendant&lt;/em&gt; being his father, he has to prosecute him.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story of Philosophy, by Will Durant</title>
-      <link>https://ghassbomb.github.io/books/storyofphilosophy/</link>
+      <link>http://localhost:1313/books/storyofphilosophy/</link>
       <pubDate>Mon, 08 Jan 2024 16:47:10 +0500</pubDate>
-      <guid>https://ghassbomb.github.io/books/storyofphilosophy/</guid>
+      <guid>http://localhost:1313/books/storyofphilosophy/</guid>
       <description>&lt;h2 id=&#34;1----on-the-uses-of-philosophy&#34;&gt;1 &amp;ndash; On the Uses of Philosophy&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Do you know the secret of the true scholar? In every man there is something wherein I may learn of him; and in that I am his pupil.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;George Bernard Shaw once wrote thus: &amp;lsquo;chess is a foolish expedient for making idle people believe they are doing something very clever, when they are only wasting their time&amp;rsquo;. In the same vein, it is easy to dismiss philosophy as a waste of the energies of intelligent men, when you see science constantly advancing and philosophers still stuck on the same arguments as centuries ago. But, as Will puts it, &amp;rsquo;this is only because philosophy accepts the hard and hazardous task of dealing with problems not yet open to the methods of science [&amp;hellip;] so soon as a field of inquiry yields knowledge susceptible of exact formulation it is called science. Every science begins as philosophy and ends as art.&amp;rsquo; And, indeed, many of the earliest &amp;lsquo;scientists&amp;rsquo; were philosophers first, and the term for the sciences was originally &amp;rsquo;natural philosophy&amp;rsquo;.&lt;/p&gt;</description>
     </item>
   </channel>
