@@ -15,16 +15,5 @@ This page contains my readings and writings on philosophic topics and thinkers, 
 - [Plato](/philosophy/plato)
   - [Plato's '*Euthyphro*'](/posts/euthyphro)
   - [Plato's '*Apology of Socrates*'](/posts/apologyofsocrates)
+  - [Plato's '*Crito*'](/posts/crito)
 - [Aristotle](/philosophy/aristotle)
-- The Stoics
-- The Cynics
-- Epicurus
-- The Skeptics
-- The Stoics
-- The Rationalists
-- The Empiricists
-- Kant
-- The Existentialists
-- The Pragmatists
-- Analytic
-- Continental

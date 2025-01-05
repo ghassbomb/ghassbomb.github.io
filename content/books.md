@@ -46,6 +46,7 @@ This page contains my notes and thoughts on various books. Philosophy books here
   - [*'Story of Philosophy'*](/books/storyofphilosophy) by Will Durant
   - [*'Ludwig Wittgenstein: Duty of Genius'*](/books/dutyofgenius) by Ray Monk
   - [*'Existentialism from Dostoevsky to Sartre'*](/books/existentialismfromdost) by Walter Kaufmann
+  - [*'Four Texts on Socrates'*](/posts/fourtexts)
 - Mathematics
   - [*'The Man Who Loved Only Numbers'*](/books/paulerdos) by Paul Hoffman
 - History
