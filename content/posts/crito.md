@@ -6,7 +6,7 @@ tags:
   - Socrates
   - Plato
   - Philosophy
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Artgate_Fondazione_Cariplo_-_Canova_Antonio%2C_Critone_chiude_gli_occhi_a_Socrate.jpg"
+featured_image: "https://cdn.britannica.com/09/150009-050-13A45EE8/Death-of-Socrates-canvas-Jacques-Louis-David-New-1787.jpg"
 description: "Crito attempts to persuade Socrates into fleeing Athens the day before he is scheduled to be executed."
 ---
 

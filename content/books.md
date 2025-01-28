@@ -1,7 +1,7 @@
 ---
 title: Books
 author: Ghassan Shahzad
-description: "This page contains my notes and thoughts on various (non-mathematical and non-philosophical) published books."
+description: "This page contains my thoughts on various published books."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ceiling_of_Frere_Hall.jpg/2560px-Ceiling_of_Frere_Hall.jpg"
 ---
 
@@ -27,30 +27,98 @@ featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ceili
       </div>
   </div>
 	<script src="https://www.goodreads.com/user_challenges/widget/160780291-ghassan-shahzad?challenge_id=11627&v=2"></script>
+  </div>
+
+## Currently Reading
+
+  <style type="text/css" media="screen">
+    .gr_grid_container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .gr_grid_book_container {
+      padding: 0px 5px;
+      overflow: hidden;
+      shadow
+    }
+    .gr_grid_book_container > a:hover {
+      box-shadow: 10px 10px 20px rgba(36, 36, 36, 0.5);
+    }
+  </style>
+  <div id="gr_grid_widget_1738065264">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+          <div class="gr_grid_container" id="current">
+    <div class="gr_grid_book_container"><a title="Archetypes of Wisdom: An Introduction to Philosophy (Available Titles CengageNOW)" rel="nofollow" href="https://www.goodreads.com/book/show/1093516.Archetypes_of_Wisdom"><img alt="Archetypes of Wisdom: An Introduction to Philosophy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387701110l/1093516._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Mind and the Market: Capitalism in Western Thought" rel="nofollow" href="https://www.goodreads.com/book/show/1005775.The_Mind_and_the_Market"><img alt="The Mind and the Market: Capitalism in Western Thought" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320440877l/1005775._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Republic of Plato" rel="nofollow" href="https://www.goodreads.com/book/show/30290.The_Republic_of_Plato"><img alt="The Republic of Plato" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441536236l/30290._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="One Night Stand (Full Metal Panic! #2)" rel="nofollow" href="https://www.goodreads.com/book/show/1900465.One_Night_Stand"><img alt="One Night Stand" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347730718l/1900465._SX98_.jpg" /></a></div>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Ghassan, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+  </div>
+  <script src="https://www.goodreads.com/review/grid_widget/160780291.Ghassan's%20bookshelf:%20currently-reading?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=currently-reading&sort=date_added&widget_id=1738065264" type="text/javascript" charset="utf-8"></script>
+
+## 2025 Planned Reads
+
+  <div id="gr_grid_widget_1738066183">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+          <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="An Introduction to the Philosophy of Science (Cambridge Introductions to Philosophy)" rel="nofollow" href="https://www.goodreads.com/book/show/24258391-an-introduction-to-the-philosophy-of-science"><img alt="An Introduction to the Philosophy of Science" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420194684l/24258391._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Philosophy of Social Science: An Introduction" rel="nofollow" href="https://www.goodreads.com/book/show/1199754.The_Philosophy_of_Social_Science"><img alt="The Philosophy of Social Science: An Introduction" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389033138l/1199754._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="An Introduction to the Theory of Knowledge" rel="nofollow" href="https://www.goodreads.com/book/show/3364918-an-introduction-to-the-theory-of-knowledge"><img alt="An Introduction to the Theory of Knowledge" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347864366l/3364918._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="An Introduction to Political Philosophy (Cambridge Introductions to Philosophy)" rel="nofollow" href="https://www.goodreads.com/book/show/676949.An_Introduction_to_Political_Philosophy"><img alt="An Introduction to Political Philosophy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348491877l/676949._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Metaphysics: A Very Short Introduction (Very Short Introductions, #326)" rel="nofollow" href="https://www.goodreads.com/book/show/14828812-metaphysics"><img alt="Metaphysics: A Very Short Introduction" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348638302l/14828812._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="An Introduction to the Philosophy of Religion (Cambridge Introductions to Philosophy)" rel="nofollow" href="https://www.goodreads.com/book/show/4021405-an-introduction-to-the-philosophy-of-religion"><img alt="An Introduction to the Philosophy of Religion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349036952l/4021405._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Fermat's Enigma" rel="nofollow" href="https://www.goodreads.com/book/show/38412.Fermat_s_Enigma"><img alt="Fermat's Enigma" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388182122l/38412._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A Mathematician's Apology" rel="nofollow" href="https://www.goodreads.com/book/show/154060.A_Mathematician_s_Apology"><img alt="A Mathematician's Apology" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348629338l/154060._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Philosophy of Music: An Introduction" rel="nofollow" href="https://www.goodreads.com/book/show/1523294.Philosophy_of_Music"><img alt="Philosophy of Music: An Introduction" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328810234l/1523294._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="On Philosophy, Politics, and Economics" rel="nofollow" href="https://www.goodreads.com/book/show/3068556-on-philosophy-politics-and-economics"><img alt="On Philosophy, Politics, and Economics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348953606l/3068556._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Institutions, Institutional Change and Economic Performance" rel="nofollow" href="https://www.goodreads.com/book/show/741704.Institutions_Institutional_Change_and_Economic_Performance"><img alt="Institutions, Institutional Change and Economic Performance" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348671096l/741704._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Bourgeois Virtues: Ethics for an Age of Commerce" rel="nofollow" href="https://www.goodreads.com/book/show/786362.The_Bourgeois_Virtues"><img alt="The Bourgeois Virtues: Ethics for an Age of Commerce" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328872357l/786362._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Against the Tide: An Intellectual History of Free Trade" rel="nofollow" href="https://www.goodreads.com/book/show/1130199.Against_the_Tide"><img alt="Against the Tide: An Intellectual History of Free Trade" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348949841l/1130199._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The First Industrial Revolution" rel="nofollow" href="https://www.goodreads.com/book/show/1481530.The_First_Industrial_Revolution"><img alt="The First Industrial Revolution" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385351121l/1481530._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A Concise Economic History of the World: From Paleolithic Times to the Present, 4th Edition" rel="nofollow" href="https://www.goodreads.com/book/show/352292.A_Concise_Economic_History_of_the_World"><img alt="A Concise Economic History of the World: From Paleolithic Times to the Present, 4th Edition" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388549302l/352292._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Lever of Riches: Technological Creativity and Economic Progress" rel="nofollow" href="https://www.goodreads.com/book/show/257489.The_Lever_of_Riches"><img alt="The Lever of Riches: Technological Creativity and Economic Progress" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388549305l/257489._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Morality of Happiness" rel="nofollow" href="https://www.goodreads.com/book/show/865824.The_Morality_of_Happiness"><img alt="The Morality of Happiness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348547444l/865824._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Sovereignty of Good" rel="nofollow" href="https://www.goodreads.com/book/show/11232.The_Sovereignty_of_Good"><img alt="The Sovereignty of Good" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837900l/11232._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Dependent Rational Animals: Why Human Beings Need the Virtues (The Paul Carus Lectures)" rel="nofollow" href="https://www.goodreads.com/book/show/655623.Dependent_Rational_Animals"><img alt="Dependent Rational Animals: Why Human Beings Need the Virtues" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348208982l/655623._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century" rel="nofollow" href="https://www.goodreads.com/book/show/1871651.A_Short_History_of_Ethics"><img alt="A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1189535819l/1871651._SX98_.jpg" /></a></div>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Ghassan, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+  </div>
+  <script src="https://www.goodreads.com/review/grid_widget/160780291.Ghassan's%202025-reads%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=d&shelf=2025-reads&sort=date_added&widget_id=1738066183" type="text/javascript" charset="utf-8"></script>
+
+
+## Finished
+
+<style type="text/css" media="screen">
+</style>
+<div id="gr_grid_widget_1738065321">
+  <div class="gr_grid_container">
+  <div class="gr_grid_book_container"><a title="Fighting Boy Meets Girl (Full Metal Panic! #1)" rel="nofollow" href="https://www.goodreads.com/book/show/875188.Fighting_Boy_Meets_Girl"><img alt="Fighting Boy Meets Girl" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347729665l/875188._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Knowledge: A Very Short Introduction" rel="nofollow" href="https://www.goodreads.com/book/show/20749121-knowledge"><img alt="Knowledge: A Very Short Introduction" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391807898l/20749121._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Into the Hands of the Soldiers: Freedom and Chaos in Egypt and the Middle East" rel="nofollow" href="https://www.goodreads.com/book/show/38140782-into-the-hands-of-the-soldiers"><img alt="Into the Hands of the Soldiers: Freedom and Chaos in Egypt and the Middle East" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524056661l/38140782._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Armies of Sand: The Past, Present, and Future of Arab Military Effectiveness" rel="nofollow" href="https://www.goodreads.com/book/show/38819269-armies-of-sand"><img alt="Armies of Sand: The Past, Present, and Future of Arab Military Effectiveness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522216667l/38819269._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Four Texts on Socrates: Euthyphro/Apology/Crito/Aristophanes' Clouds" rel="nofollow" href="https://www.goodreads.com/book/show/73947.Four_Texts_on_Socrates"><img alt="Four Texts on Socrates: Euthyphro/Apology/Crito/Aristophanes' Clouds" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348394931l/73947._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="War" rel="nofollow" href="https://www.goodreads.com/book/show/217217007-war"><img alt="War" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723050655l/217217007._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Yendi (Vlad Taltos, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/817357.Yendi"><img alt="Yendi" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302450419l/817357._SY160_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Jhereg (Vlad Taltos, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/133454.Jhereg"><img alt="Jhereg" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328204364l/133454._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Storm Front (The Dresden Files, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/47212.Storm_Front"><img alt="Storm Front" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572991273l/47212._SY160_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything In Between" rel="nofollow" href="https://www.goodreads.com/book/show/61327449-how-big-things-get-done"><img alt="How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything In Between" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663709589l/61327449._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="The Worldly Philosophers" rel="nofollow" href="https://www.goodreads.com/book/show/82120.The_Worldly_Philosophers"><img alt="The Worldly Philosophers" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722830129l/82120._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Existentialism from Dostoevsky to Sartre" rel="nofollow" href="https://www.goodreads.com/book/show/26415.Existentialism_from_Dostoevsky_to_Sartre"><img alt="Existentialism from Dostoevsky to Sartre" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386921562l/26415._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Ludwig Wittgenstein: The Duty of Genius" rel="nofollow" href="https://www.goodreads.com/book/show/12079.Ludwig_Wittgenstein"><img alt="Ludwig Wittgenstein: The Duty of Genius" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388333858l/12079._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="Crime and Punishment" rel="nofollow" href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment"><img alt="Crime and Punishment" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="The Man Who Loved Only Numbers: The Story of  Paul Erdős and the Search for Mathematical Truth" rel="nofollow" href="https://www.goodreads.com/book/show/714583.The_Man_Who_Loved_Only_Numbers"><img alt="The Man Who Loved Only Numbers: The Story of  Paul Erdős and the Search for Mathematical Truth" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348101129l/714583._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="The Course: Serious Hold 'Em Strategy For Smart Players" rel="nofollow" href="https://www.goodreads.com/book/show/25459302-the-course"><img alt="The Course: Serious Hold 'Em Strategy For Smart Players" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441502981l/25459302._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="The Republic" rel="nofollow" href="https://www.goodreads.com/book/show/30289.The_Republic"><img alt="The Republic" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925655l/30289._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)" rel="nofollow" href="https://www.goodreads.com/book/show/192221.How_to_Solve_It"><img alt="How to Solve It: A New Aspect of Mathematical Method" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349052024l/192221._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns" rel="nofollow" href="https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing"><img alt="The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347673616l/171127._SX98_.jpg" /></a></div>
+  <div class="gr_grid_book_container"><a title="The Psychology of Money" rel="nofollow" href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money"><img alt="The Psychology of Money" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SX98_.jpg" /></a></div>
+<noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Ghassan, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
 </div>
 
-This page contains my notes and thoughts on various books. Philosophy books here are mostly secondary literature; check out my [philosophy page](/philosophy/) for primary literature.
-
-- Economics
-  - The [revised](/books/econinonelessonrev) article; the old one: [*'Economics in One Lesson'*](/books/econinonelesson) by Henry Hazlitt
-  - The [revised](/books/edibleeconrev) article; the old one: [*'Edible Economics'*](/books/edibleecon) by Ha-Joon Chang
-  - [*'The Worldly Philosophers'*](/posts/theworldlyphilosophers) by Robert L. Heilbroner
-- Finance
-  - [*'The Intelligent Investor'*](/books/theintelligentinvestor) by Benjamin Graham
-  - [*'The Little Book of Common-Sense Investing'*](/books/thelittlebook) by John C. Bogle
-- Psychology
-  - [*'Predictably Irrational'*](/books/predictablyirrational) by Dan Ariely
-  - [*'Man's Search for Meaning'*](/books/searchformeaning) by Viktor E. Frankl
-  - [*'Psychology of Money'*](/books/psychologyofmoney) by Morgan Housel
-- Philosophy
-  - [*'Story of Philosophy'*](/books/storyofphilosophy) by Will Durant
-  - [*'Ludwig Wittgenstein: Duty of Genius'*](/books/dutyofgenius) by Ray Monk
-  - [*'Existentialism from Dostoevsky to Sartre'*](/books/existentialismfromdost) by Walter Kaufmann
-  - [*'Four Texts on Socrates'*](/posts/fourtexts)
-- Mathematics
-  - [*'The Man Who Loved Only Numbers'*](/books/paulerdos) by Paul Hoffman
-- History
-  - [*'Armies of Sand'*](/posts/armiesofsand) by Kenneth M. Pollack
-  - [*'War'*](/posts/war) by Bob Woodward
-- Management
-  - [*'How Big Things Get Done'*](/posts/bigthings) by Bent Flyvbjerg
+  </div>
+  <script src="https://www.goodreads.com/review/grid_widget/160780291.Ghassan's%20read%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=d&shelf=read&sort=date_added&widget_id=1738065321" type="text/javascript" charset="utf-8"></script>

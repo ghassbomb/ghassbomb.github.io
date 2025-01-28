@@ -2,37 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/crito/</loc>
-    <lastmod>2025-01-04T21:12:53+05:00</lastmod>
+    <loc>http://localhost:1313/tags/epistemology/</loc>
+    <lastmod>2025-01-28T16:36:39+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-04T21:12:53+05:00</lastmod>
+    <lastmod>2025-01-28T16:36:39+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/knowledgeintro/</loc>
+    <lastmod>2025-01-28T16:36:39+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/philosophy/</loc>
-    <lastmod>2025-01-04T21:12:53+05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/plato/</loc>
-    <lastmod>2025-01-04T21:12:53+05:00</lastmod>
+    <lastmod>2025-01-28T16:36:39+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-04T21:12:53+05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/socrates/</loc>
-    <lastmod>2025-01-04T21:12:53+05:00</lastmod>
+    <lastmod>2025-01-28T16:36:39+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-28T16:36:39+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/plato/</loc>
+    <lastmod>2025-01-07T18:08:33+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/republic/</loc>
+    <lastmod>2025-01-07T18:08:33+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/socrates/</loc>
+    <lastmod>2025-01-07T18:08:33+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/crito/</loc>
     <lastmod>2025-01-04T21:12:53+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -6,26 +6,33 @@
     <description>Recent content in Tags on Ghassan Shahzad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2025 21:12:53 +0500</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 16:36:39 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epistemology</title>
+      <link>http://localhost:1313/tags/epistemology/</link>
+      <pubDate>Tue, 28 Jan 2025 16:36:39 +0500</pubDate>
+      <guid>http://localhost:1313/tags/epistemology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Philosophy</title>
       <link>http://localhost:1313/tags/philosophy/</link>
-      <pubDate>Sat, 04 Jan 2025 21:12:53 +0500</pubDate>
+      <pubDate>Tue, 28 Jan 2025 16:36:39 +0500</pubDate>
       <guid>http://localhost:1313/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Plato</title>
       <link>http://localhost:1313/tags/plato/</link>
-      <pubDate>Sat, 04 Jan 2025 21:12:53 +0500</pubDate>
+      <pubDate>Tue, 07 Jan 2025 18:08:33 +0500</pubDate>
       <guid>http://localhost:1313/tags/plato/</guid>
       <description></description>
     </item>
     <item>
       <title>Socrates</title>
       <link>http://localhost:1313/tags/socrates/</link>
-      <pubDate>Sat, 04 Jan 2025 21:12:53 +0500</pubDate>
+      <pubDate>Tue, 07 Jan 2025 18:08:33 +0500</pubDate>
       <guid>http://localhost:1313/tags/socrates/</guid>
       <description></description>
     </item>

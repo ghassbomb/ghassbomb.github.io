@@ -6,8 +6,15 @@
     <description>Recent content in Plato on Ghassan Shahzad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2025 21:12:53 +0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:08:33 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/plato/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Republic, by Plato</title>
+      <link>http://localhost:1313/posts/republic/</link>
+      <pubDate>Tue, 07 Jan 2025 18:08:33 +0500</pubDate>
+      <guid>http://localhost:1313/posts/republic/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Crito, by Plato</title>
       <link>http://localhost:1313/posts/crito/</link>
