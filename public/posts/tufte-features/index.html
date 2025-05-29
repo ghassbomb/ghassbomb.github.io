@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<title>The big old test page - Ghassan Shahzad</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description"
+    content="If the description field is not empty, its contents will show in the home page instead of the first 140 characters of the post. ">
+<link rel="canonical" href="http://localhost:1313/posts/tufte-features/" />
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" as="style"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC|Noto+Emoji&display=swap" />
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC|Noto+Emoji&display=swap"
+      media="print" onload="this.media='all'" />
+<noscript>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" />
+</noscript>
+
+
+
+<link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte.min.css">
+
+
+
+<link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-options.min.css">
+
+<link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-override.css">
+</head>
+<body>
+
+
+<article id="main">
+  <section>
+<h1 class="content-title">The big old test page</h1><p class=subtitle>Fancy Subtitle</p><span class="content-meta"><p class="author">Totally famous person</p><p class="date">2023-04-16</p><span>5 min read&nbsp;</span></span></section>
+
+  
+<section>
+  <details closed class="toc">
+    <summary>Table of Contents</summary>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#new-features">New features</a>
+      <ul>
+        <li><a href="#emoji">Emoji</a></li>
+        <li><a href="#button">Button</a></li>
+        <li><a href="#cols-with-lang-option">Cols (with <code>lang</code> option)</a></li>
+        <li><a href="#youtube-nocookie">YouTube-nocookie</a></li>
+      </ul>
+    </li>
+    <li><a href="#tufte-features">Tufte features</a>
+      <ul>
+        <li><a href="#marginnote-and-sidenote">Marginnote and sidenote</a></li>
+        <li><a href="#epigraph">Epigraph</a></li>
+        <li><a href="#blockquote">Blockquote</a></li>
+        <li><a href="#small-caps">Small-caps</a></li>
+        <li><a href="#figure">Figure</a></li>
+      </ul>
+    </li>
+    <li><a href="#normal-markdown-tests">Normal Markdown tests</a>
+      <ul>
+        <li><a href="#formatting">Formatting</a></li>
+        <li><a href="#lists">Lists</a></li>
+        <li><a href="#code">Code</a></li>
+        <li><a href="#font">Font</a></li>
+        <li><a href="#inline-html">Inline HTML</a></li>
+        <li><a href="#latex--table">LaTeX &amp; Table</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </details>
+</section>
+
+
+  <section><h2 id="new-features">
+New features
+<a href="#new-features" class="heading-anchor">#</a>
+</h2>
+<h3 id="emoji">
+Emoji
+<a href="#emoji" class="heading-anchor">#</a>
+</h3>
+<p>Powered by <a href="https://emojipedia.org/noto-emoji/">Noto Emoji font</a>.</p>
+<p>We really like cats. Yes, they are fluffy and happy. 🐈🐱</p>
+<p>🪷🫶🤍😊💀🔥</p>
+<h3 id="button">
+Button
+<a href="#button" class="heading-anchor">#</a>
+</h3>
+<span class="btn primary">
+
+<button onclick="javascript:(function(){function checkFrames(w) {try {var inputs = w.document.getElementsByTagName(&#39;input&#39;);for (var i=0; i &lt; inputs.length; i&#43;&#43;) {if (inputs[i].type &amp;&amp; inputs[i].type == &#39;checkbox&#39;){inputs[i].checked = true;}}} catch (e){}if(w.frames &amp;&amp; w.frames.length&gt;0){for(var i=0;i&lt;w .frames.length;i&#43;&#43;){var fr=w.frames[i];checkFrames(fr);}}}checkFrames(window);})()" type="button">
+<span class="icon">✅</span>
+Open all notes
+</button>
+</span>
+
+
+
+
+<span class="btn primary">
+
+<button onclick="javascript:(function(){function checkFrames(w) {try {var inputs = w.document.getElementsByTagName(&#39;input&#39;);for (var i=0; i &lt; inputs.length; i&#43;&#43;) {if (inputs[i].type &amp;&amp; inputs[i].type == &#39;checkbox&#39;){inputs[i].checked = false;}}} catch (e){}if(w.frames &amp;&amp; w.frames.length&gt;0){for(var i=0;i&lt;w .frames.length;i&#43;&#43;){var fr=w.frames[i];checkFrames(fr);}}}checkFrames(window);})()" type="button">
+<span class="icon">❎</span>
+Close all notes
+</button>
+</span>
+
+
+
+
+<span class="btn primary">
+
+<button onclick="javascript:(function(){function checkFrames(w) {try {var inputs = w.document.getElementsByTagName(&#39;input&#39;);for (var i=0; i &lt; inputs.length; i&#43;&#43;) {if (inputs[i].type &amp;&amp; inputs[i].type == &#39;checkbox&#39;){inputs[i].checked = !inputs[i].checked;}}} catch (e){}if(w.frames &amp;&amp; w.frames.length&gt;0){for(var i=0;i&lt;w .frames.length;i&#43;&#43;){var fr=w.frames[i];checkFrames(fr);}}}checkFrames(window);})()" type="button">
+<span class="icon">🔄</span>
+Toggle all notes
+</button>
+</span>
+
+
+
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">button</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;primary&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">icon</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;🔄&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;javascript:javascript:(function(){function checkFrames(w) {try {var inputs = w.document.getElementsByTagName(&#39;input&#39;);for (var i=0; i &lt; inputs.length; i++) {if (inputs[i].type &amp;&amp; inputs[i].type == &#39;checkbox&#39;){inputs[i].checked = !inputs[i].checked;}}} catch (e){}if(w.frames &amp;&amp; w.frames.length&gt;0){for(var i=0;i&lt;w .frames.length;i++){var fr=w.frames[i];checkFrames(fr);}}}checkFrames(window);})()&#34;</span>
+</span></span><span style="display:flex;"><span>&gt;}}
+</span></span><span style="display:flex;"><span>Toggle all notes
+</span></span><span style="display:flex;"><span>{{&lt; /<span style="color:#f92672">button</span> &gt;}}
+</span></span></code></pre></div><h3 id="cols-with-lang-option">
+Cols (with <code>lang</code> option)
+<a href="#cols-with-lang-option" class="heading-anchor">#</a>
+</h3>
+<p>Certain things do not work with this shortcode layout, for example, Markdown&rsquo;s default footnote (like <code>[^1]</code>).</p>
+
+
+
+
+
+<span class="row">
+
+   <span class="column"  lang="zh-Hans">
+   <p>我是一个懒人。 <!-- raw HTML omitted --><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+这是一个边注。在屏幕很小的时候，它有一个可以点击展开的按钮。
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->🐱<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+您可以在 <!-- raw HTML omitted -->config.yaml<!-- raw HTML omitted --> 中修改全站按钮默认设置，也可以使用 <!-- raw HTML omitted -->ind<!-- raw HTML omitted --> 选项为每一个边注单独设置按钮。
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->⚠<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+在这个版本中，我提升了可访问性，但不包括<!-- raw HTML omitted -->用不了 <!-- raw HTML omitted -->:has<!-- raw HTML omitted --> 的火狐<!-- raw HTML omitted -->。
+<!-- raw HTML omitted --></p>
+
+   </span>
+
+   <span class="column"  lang="en">
+   <p>But sometimes you just have to get your hands dirty.</p>
+<p>This is the joy and the curse of a programmer. <!-- raw HTML omitted -->(1)<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->(1)<!-- raw HTML omitted -->Sidenote numbers are consistent across the whole page. Good numbers.
+<!-- raw HTML omitted --></p>
+
+   </span>
+
+   <span class="column"  lang="ja">
+   <p>さらに、なんと！日本語もいけます。<!-- raw HTML omitted -->(2)<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->(2)<!-- raw HTML omitted -->読めないのか？私は大丈夫だが。
+<!-- raw HTML omitted --></p>
+
+   </span>
+
+</span>
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">cols</span> <span style="color:#960050;background-color:#1e0010">&#34;</span><span style="color:#a6e22e">zh-Hans</span><span style="color:#960050;background-color:#1e0010">,</span><span style="color:#a6e22e">en</span><span style="color:#960050;background-color:#1e0010">,</span><span style="color:#a6e22e">ja</span><span style="color:#960050;background-color:#1e0010">&#34;</span> &gt;}}
+</span></span><span style="display:flex;"><span>我是一个懒人。{{&lt; <span style="color:#f92672">marginnote</span> &gt;}}这是一个边注。{{&lt; /<span style="color:#f92672">marginnote</span> &gt;}}
+</span></span><span style="display:flex;"><span>||
+</span></span><span style="display:flex;"><span>But sometimes you just have to get your hands dirty.{{&lt; <span style="color:#f92672">sidenote</span> &gt;}}Good numbers.{{&lt; /<span style="color:#f92672">sidenote</span> &gt;}}
+</span></span><span style="display:flex;"><span>||
+</span></span><span style="display:flex;"><span>読めないのか？私は大丈夫だが。
+</span></span><span style="display:flex;"><span>{{&lt; /<span style="color:#f92672">cols</span> &gt;}}
+</span></span></code></pre></div><h3 id="youtube-nocookie">
+YouTube-nocookie
+<a href="#youtube-nocookie" class="heading-anchor">#</a>
+</h3>
+<p>Never again click things in the video accidentally and it opens YouTube. Oh no.</p>
+
+
+
+
+<div class="video-container">
+<iframe
+class="video video--16x9"
+src="https://www.youtube-nocookie.com/embed/YslQ2625TR4?cc_load_policy=1&cc=1" allowfullscreen title="iPhone Resolution by Edward Tufte" frameborder="0" sandbox="allow-same-origin allow-scripts" loading="lazy"></iframe>
+</div>
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">youtube</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;YslQ2625TR4&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;iPhone Resolution by Edward Tufte&#34;</span> &gt;}}
+</span></span></code></pre></div><h2 id="tufte-features">
+Tufte features
+<a href="#tufte-features" class="heading-anchor">#</a>
+</h2>
+<h3 id="marginnote-and-sidenote">
+Marginnote and sidenote
+<a href="#marginnote-and-sidenote" class="heading-anchor">#</a>
+</h3>
+<p>This is what you came here for. <label for="marginnote-4" class="margin-toggle marginnote-ind"></label>
+<input type="checkbox" id="marginnote-4" class="margin-toggle"/>
+<span class="marginnote">
+This is a marginnote. It has no indicators on big screens.
+</span>
+ Be honest. <label for="sidenote-3" class="margin-toggle sidenote-number">(3)</label>
+<input type="checkbox" id="sidenote-3" class="margin-toggle"/>
+<span class="sidenote">
+<span class="sidenote-number">(3)</span>This is a sidenote! It has a little number.
+</span>
+</p>
+<h3 id="epigraph">
+Epigraph
+<a href="#epigraph" class="heading-anchor">#</a>
+</h3>
+<div class="epigraph">
+<blockquote>
+<p>This is an example of an epigraph with some math
+<code>$ \mathbb N \subseteq \mathbb R $</code>
+to start the beginning of a section.</p>
+
+
+    <footer>Shawn O&#39;Hare, <cite>Math is Fun</cite>, p.8</footer>
+
+</blockquote>
+</div>
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">epigraph</span> <span style="color:#a6e22e">author</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Shawn O&#39;Hare&#34;</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Math is Fun&#34;</span> <span style="color:#a6e22e">detail</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;p.8&#34;</span> &gt;}}
+</span></span><span style="display:flex;"><span>This is an example of an epigraph with some math
+</span></span><span style="display:flex;"><span>`$ \mathbb N \subseteq \mathbb R $`
+</span></span><span style="display:flex;"><span>to start the beginning of a section.
+</span></span><span style="display:flex;"><span>{{&lt; /<span style="color:#f92672">epigraph</span> &gt;}}
+</span></span></code></pre></div><h3 id="blockquote">
+Blockquote
+<a href="#blockquote" class="heading-anchor">#</a>
+</h3>
+<p>Some blockquotes.  But first, we try to manually cite via</p>
+<p><!-- raw HTML omitted -->This is between cite tags and has math: <code>$e^x $</code><!-- raw HTML omitted --> <label for="sidenote-4" class="margin-toggle sidenote-number">(4)</label>
+<input type="checkbox" id="sidenote-4" class="margin-toggle"/>
+<span class="sidenote">
+<span class="sidenote-number">(4)</span>Only use <code>$\KaTeX{}$</code>, you must.
+</span>
+</p>
+<blockquote cite="www.shawnohare.com">
+<p>This is a blockquote with two paragraphs, that employs the
+theme&rsquo;s <code>blockquote</code> shortcode. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
+<p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus adipiscing.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
+
+<footer>Shawn O&#39;Hare, <cite><a href="https://www.shawnohare.com">www.shawnohare.com</a></cite></footer>
+</blockquote>
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">author</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Shawn O&#39;Hare&#34;</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;www.shawnohare.com&#34;</span> &gt;}}
+</span></span><span style="display:flex;"><span>This is a blockquote with two paragraphs, that employs the
+</span></span><span style="display:flex;"><span>theme&#39;s `blockquote` shortcode. Lorem ipsum dolor sit amet,
+</span></span><span style="display:flex;"><span>consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+</span></span><span style="display:flex;"><span>Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+</span></span><span style="display:flex;"><span>...
+</span></span><span style="display:flex;"><span>{{&lt; /<span style="color:#f92672">blockquote</span> &gt;}}
+</span></span></code></pre></div><h3 id="small-caps">
+Small-caps
+<a href="#small-caps" class="heading-anchor">#</a>
+</h3>
+<p><span class="newthought">Sometimes a new thought</span>
+ distinguishes a section, as here.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">newthought</span> &gt;}}Sometimes a new thought{{&lt; /<span style="color:#f92672">newthought</span> &gt;}}
+</span></span></code></pre></div><h3 id="figure">
+Figure
+<a href="#figure" class="heading-anchor">#</a>
+</h3>
+<p><strong>Regular width figure:</strong></p>
+
+
+    <figure >
+  
+    <label for="mn-export-import" class="margin-toggle marginnote-ind"></label>
+    <input type="checkbox" id="mn-export-import" class="margin-toggle"/>
+    <span class="marginnote">
+
+<strong>The image title. </strong>
+This is the image caption.
+<a href="#">Image attribution</a>.
+
+
+</span>
+
+
+
+  <a href="link">
+  <img src="https://github.com/edwardtufte/tufte-css/raw/gh-pages/img/exports-imports.png" alt="Image">
+  </a>
+
+
+
+
+</figure>
+
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">figure</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://github.com/edwardtufte/tufte-css/raw/gh-pages/img/exports-imports.png&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;The image title&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">label</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mn-export-import&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">caption</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;This is the image caption.&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">attr</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;[Image attribution](#)&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">link</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;link&#34;</span>
+</span></span><span style="display:flex;"><span>&gt;}}
+</span></span></code></pre></div><p><strong>Margin figure:</strong></p>
+<p>Margin figures appear on the margin. Highly logical.
+
+
+    <label for="mn-rhino" class="margin-toggle marginnote-ind"></label>
+    <input type="checkbox" id="mn-rhino" class="margin-toggle"/>
+    <span class="marginnote">
+    <a href="#">
+    <img src="https://github.com/edwardtufte/tufte-css/raw/gh-pages/img/rhino.png" alt="alt">
+    </a>
+
+<strong>The image title. </strong>
+This is the image caption.
+<a href="https://edwardtufte.github.io/tufte-css">Image attribution</a>.
+
+
+</span>
+
+
+
+
+
+
+
+Very importantly, they want some text to go with them, either before or after, with only one line break.</p>
+<p>No worries if you forgot to give your figure a <code>label</code>. Marginnote (either for figure or with figure inside) will be created if any one of the following conditions is met:</p>
+<ol>
+<li>Has <code>type=&quot;margin</code>; or</li>
+<li>Has <code>caption</code>; or</li>
+<li>Has <code>attr</code>.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">figure</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://github.com/edwardtufte/tufte-css/raw/gh-pages/img/rhino.png&#34;</span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span>  <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;margin&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;The image title&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">caption</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;This is the image caption.&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">attr</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;[Image attribution](https://edwardtufte.github.io/tufte-css)&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">alt</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;alt&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">link</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;#&#34;</span>
+</span></span><span style="display:flex;"><span>&gt;}}
+</span></span></code></pre></div><p><strong>Full-width figure:</strong></p>
+
+
+    <figure class="fullwidth">
+  
+  <a href="#">
+  <img src="https://github.com/edwardtufte/tufte-css/raw/gh-pages/img/napoleons-march.png" alt="Napoleonic wars">
+  </a>
+  <figcaption>
+
+<strong>Napoleonic wars. </strong>
+This the image caption.
+<a href="#">Image attribution</a>.
+
+
+
+  </figcaption>
+
+
+
+
+
+
+</figure>
+
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">figure</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://github.com/edwardtufte/tufte-css/raw/gh-pages/img/napoleons-march.png&#34;</span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span>  <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;full&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">label</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;mn-napoleonic-wars&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Napoleonic wars&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">caption</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;This the image caption.&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">attr</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;[Image attribution](#)&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">alt</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Napoleonic wars&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">link</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;#&#34;</span>
+</span></span><span style="display:flex;"><span>&gt;}}
+</span></span></code></pre></div><h2 id="normal-markdown-tests">
+Normal Markdown tests
+<a href="#normal-markdown-tests" class="heading-anchor">#</a>
+</h2>
+<p>Begin <a href="https://gist.github.com/loikein/27ef6913386b206d1b3c18b8e93c5768">test file</a>…</p>
+<h3 id="formatting">
+Formatting
+<a href="#formatting" class="heading-anchor">#</a>
+</h3>
+<p><strong>Bold</strong>, <strong>bold</strong>, <strong>加粗</strong></p>
+<p><em>Italic</em>, <em>italic</em>, <em>斜体</em></p>
+<p><!-- raw HTML omitted -->Underline<!-- raw HTML omitted -->, <!-- raw HTML omitted -->underline<!-- raw HTML omitted --></p>
+<p><!-- raw HTML omitted -->Strike<!-- raw HTML omitted -->, <!-- raw HTML omitted -->strike<!-- raw HTML omitted -->, <del>strike</del>, <del>strike</del>, &ndash;strike&ndash;</p>
+<p><!-- raw HTML omitted -->Highlight<!-- raw HTML omitted -->, =highlight=, ==highlight==</p>
+<p>Footnote<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, footnote<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<hr>
+<h3 id="lists">
+Lists
+<a href="#lists" class="heading-anchor">#</a>
+</h3>
+<ul>
+<li><code>ul</code></li>
+<li>Unordered list</li>
+</ul>
+<ol>
+<li><code>ol</code></li>
+<li>Ordered list</li>
+</ol>
+<dl>
+<dt><code>dl</code></dt>
+<dd><code>dt</code></dd>
+<dd>Description list</dd>
+</dl>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Task list</li>
+<li><input disabled="" type="checkbox"> Task list</li>
+</ul>
+<h3 id="code">
+Code
+<a href="#code" class="heading-anchor">#</a>
+</h3>
+<p>Inline <code>code</code>, <code>`escape`</code>, and <!-- raw HTML omitted -->keystroke<!-- raw HTML omitted --></p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">199
+</span><span style="background-color:#3c3d38"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">200
+</span></span><span style="background-color:#3c3d38"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">201
+</span></span><span style="background-color:#3c3d38"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">202
+</span></span><span style="background-color:#3c3d38"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">203
+</span></span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">204
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">205
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">206
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">207
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">208
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">209
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">210
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">211
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;log&#34;</span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">x</span> <span style="color:#66d9ef">int</span>, <span style="color:#a6e22e">y</span> <span style="color:#66d9ef">int</span>) <span style="color:#66d9ef">int</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;We are going to take the sum of two numbers, and leave a long comment.&#34;</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">x</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">y</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">y</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">add</span>(<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#a6e22e">y</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Here&rsquo;s an example without line numbers.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;log&#34;</span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span>
+</span></span><span style="display:flex; background-color:#3c3d38"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">x</span> <span style="color:#66d9ef">int</span>, <span style="color:#a6e22e">y</span> <span style="color:#66d9ef">int</span>) <span style="color:#66d9ef">int</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;We are going to take the sum of two numbers, and leave a very very very long comment.&#34;</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">x</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">y</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">y</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">add</span>(<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#a6e22e">y</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="font">
+Font
+<a href="#font" class="heading-anchor">#</a>
+</h3>
+<blockquote>
+<p>我能体に傷つけないで吞下 259 ml glass。</p></blockquote>
+<blockquote>
+<p>Four score and seven years ago our fathers brought forth upon this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</p></blockquote>
+<p>0 Oo Ii Ll 1 | 2 Z 5 s 8 Bb 6 # * ^ ~ () {} [] . , : ; “ ‘ ’ `</p>
+<pre tabindex="0"><code>0 Oo Ii Ll 1 | 2 Z 5 s 8 Bb 6 # * ^ ~ () {} [] . , : ; “ ‘ ’ `
+</code></pre><h3 id="inline-html">
+Inline HTML
+<a href="#inline-html" class="heading-anchor">#</a>
+</h3>
+<p>ref: <a href="https://burk.io/2020/let-there-be-dark">https://burk.io/2020/let-there-be-dark</a></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="latex--table">
+LaTeX &amp; Table
+<a href="#latex--table" class="heading-anchor">#</a>
+</h3>
+<p><code>$\LaTeX{}$</code></p>
+<p><code>$$R_1 \begin{cases} &gt;\mu_{2} \\ \leq \mu_{2} \end{cases}$$</code></p>
+<table>
+  <thead>
+      <tr>
+          <th>Message to agent 1</th>
+          <th><code>$M_1$</code></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Agent 1&rsquo;s action</td>
+          <td><code>$a_1$</code></td>
+      </tr>
+      <tr>
+          <td>New finding</td>
+          <td><code>$R_1 \begin{cases} &gt;\mu_{2} \\ \leq \mu_{2} \end{cases}$</code></td>
+      </tr>
+  </tbody>
+</table>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The linked footnote appears at the end of the document.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>New lines&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+</section>
+  <section><footer class="page-footer">
+<hr />
+
+<div class="previous-post" style="display:inline-block;">
+  
+  <a class="link-reverse" href="http://localhost:1313/posts/more-maths/?ref=footer">« More math</a>
+  
+</div>
+
+<div class="next-post", style="display:inline-block;float:right;">
+  
+  <a class="link-reverse" href="http://localhost:1313/posts/tufte-css/?ref=footer">Tufte CSS »</a>
+  
+</div>
+
+<ul class="page-footer-menu">
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+</ul>
+
+
+
+
+
+</footer>
+</section>
+  <section><nav class="menu">
+    <ul>
+    
+        <li><a href="http://localhost:1313/">Home</a></li>
+    
+        <li><a href="http://localhost:1313/posts/">Posts</a></li>
+    
+        <li><a href="http://localhost:1313/a-book/">A-Book</a></li>
+    
+        <li><a href="http://localhost:1313/categories/">Categories</a></li>
+    
+        <li><a href="http://localhost:1313/about/">About</a></li>
+    
+        <li><a href="https://github.com/loikein/hugo-tufte">Source Code</a></li>
+    
+    </ul>
+</nav>
+</section>
+</article>
+
+
+
+
+
+
+
+  <script>(function(){var e,t,n,s=document.getElementsByTagName("code");for(n=0;n<s.length;){if(t=s[n],t.parentNode.tagName!=="PRE"&&t.childElementCount===0&&!t.classList.contains("nolatex")&&(e=t.textContent,/^\$[^$]/.test(e)&&/[^$]\$$/.test(e)&&(e=e.replace(/^\$/,"\\(").replace(/\$$/,"\\)"),t.textContent=e),/^\\\((.|\s)+\\\)$/.test(e)||/^\\\[(.|\s)+\\\]$/.test(e)||/^\$(.|\s)+\$$/.test(e)||/^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(e))){t.outerHTML=t.innerHTML;continue}n++}})()</script>
+
+
+<link rel="stylesheet" href="http://localhost:1313/katex@/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="http://localhost:1313/katex@/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="http://localhost:1313/katex@/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            
+            
+            
+            
+            
+            
+            trust: (context) => ['\\htmlId', '\\href'].includes(context.command),
+            macros: {
+              "\\eqref": "\\href{###1}{(\\text{#1})}",
+              "\\ref": "\\href{###1}{\\text{#1}}",
+              "\\label": "\\htmlId{#1}{}"
+            }
+        });
+    });
+</script>
+
+
+
+</body>
+
+</html>

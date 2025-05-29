@@ -1,0 +1,113 @@
+# Set your theme here
+theme: hugo-tufte
+# Remove this if your site folder is not inside the theme folder
+themesDir: "../.."
+# The language of your website (see https://www.andiamo.co.uk/resources/iso-language-codes/ for reference)
+languageCode: en-US
+# If you write Chinese, Japanese or Korean, this helps with word counting
+hasCJKLanguage: true
+# The url of your website
+baseurl: "https://hugo-tufte.netlify.app/"
+# The title of your website (shown on all the pages)
+title: "Hugo-Tufte Theme Example Site"
+canonifyurls: true
+# Number of posts per page on the home page
+paginate: 5
+
+# Only modify the following if you know what you are doing
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    guessSyntax: true
+
+params:
+  # Subtitle of the website
+  subtitle: "Fancy subtitle."
+  favicon: "./favicon.ico"
+  touchicon: "./touch-icon.png"
+  # Dark code highlighting
+  codeblocksdark: false
+  # Customize the indicator for margin notes
+  # Some suggestions: ⊕, 💬, 💭, 📑, 🏷, ✍, 💡, 🧐, 📎, 📌
+  marginNoteInd: "⊕"
+  # Your name or the name of you company
+  # copyright: Copyright 2023
+  # copyrightHolder: Copyright Holder
+  # Show the "Powered by Hugo-Tufte and Hugo."
+  showPoweredBy: false
+  # Site wide kill switch for date in pages
+  hidedate: false
+  # Site wide kill switch for post summary on home page
+  showSummary: true
+  # Site wide kill switch for LaTeX support
+  math: true
+  KaTeXVersion: 0.16.4
+  KaTeXCDN: "//cdn.jsdelivr.net/npm"
+  # #### Control style flavours of the website
+  # Use upright & sans-serif font for subtitles
+  sansSubtitle: false
+  # Make the page centred in screen
+  centerArticle: false
+  # ######## Common social website links, please comment the unused ones.
+  # (if your favorite one is not in the list, please head to the footer menu below and add an entry)
+  # Please note that some of the value below are only provided as an exemple, perhaps the computed isn't valid
+  # github: slashformotion
+  # gitlab: slashformotion
+  # linkedin: <insert_here>
+  # twitter: slashformotion
+  # patreon: ''
+  # youtube: user/ChromeDevelopers # check the end of your youtube url https://www.youtube.com/<copy_this>
+  # medium: slashformotion
+  # reddit: Slashformotion
+  # stackoverflow: 16609732/slashformotion
+  # instagram: google
+  # mastodon: instance.url/@username
+  # orcid: 0000-0003-0634-3275
+  # google_scholar: jm5QaHkAAAAJ
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
+# -----------------------------------------------------------------------
+# Navigation menu
+# -----------------------------------------------------------------------
+menu:
+  nav:
+    - name: Home
+      weight: -110
+      identifier: home
+      url: /
+    - name: Posts
+      weight: -100
+      identifier: posts
+      url: /posts/
+    - name: A-Book
+      weight: -95
+      identifier: book
+      url: /a-book/
+    - name: Categories
+      weight: -90
+      identifier: categories
+      url: /categories/
+    - name: About
+      weight: -80
+      identifier: about
+      url: /about/
+    - name: Source Code
+      weight: -70
+      identifier: github
+      url: "https://github.com/loikein/hugo-tufte"
+# -----------------------------------------------------------------------
+# FOOTER MENU
+# If you need to add custom links to you footer: put them here.
+# -----------------------------------------------------------------------
+  # footer:
+  #   - name: Custom footer link
+  #     weight: -90
+  #     identifier: custom_link
+  #     url: 'https://example.com'

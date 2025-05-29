@@ -1,0 +1,24 @@
+.menu {
+    margin: 1.4rem 0;
+}
+
+.menu ul {
+    list-style: none;
+    display: block;
+    padding: 0;
+    max-width: 45rem;
+    /* Width is the same as tufte.css body */
+    font-size: 1.2rem;
+    width: 87.5%;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.menu li a {
+    text-decoration: none;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+{{ if and (isset .Site.Params "sanssubtitle") .Site.Params.sansSubtitle  }}
+h2, h3 {
+    font-style: normal;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif, "Noto Emoji";
+}
+{{ end }}
+
+{{ if and (isset .Site.Params "centerarticle") .Site.Params.centerArticle  }}
+// tba
+{{ end }}

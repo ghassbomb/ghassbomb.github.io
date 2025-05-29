@@ -1,0 +1,275 @@
+/* ------------------------------------------------------------------------ */
+/* hugo-tufte.css */
+/* Contains extensions to the original tufte.css styles to */
+/* accomodate a blog-like site. */
+/* ------------------------------------------------------------------------ */
+
+/* ------------------------------------------------------------------------ */
+/* Generic content, such as the index list pages */
+/* ------------------------------------------------------------------------ */
+:root * {
+      text-align: left;
+      text-rendering: optimizeLegibility;
+}
+
+:focus {
+  outline: medium auto currentColor;
+  outline: medium auto invert;
+  outline: 5px auto -webkit-focus-ring-color;
+}
+
+::selection {
+    color: #fffff8;
+    background-color: #404040;
+}
+
+a.heading-anchor {
+    display: none;
+    visibility: collapse;
+}
+
+h2 {
+    margin-top: 5.5rem;
+}
+
+h2:hover > a.heading-anchor,
+h3:hover > a.heading-anchor {
+    display: inline;
+    visibility: visible;
+}
+
+hr {
+    text-align: left;
+    margin-left: 0;
+    margin-top: 1.4rem;
+    margin-bottom: 1.4rem;
+    width: 75%;
+    max-width: 45rem;
+    border-style: solid none none none;
+    border-color: #111;
+}
+
+kbd {
+  border: 1px #111 solid;
+  border-radius: 5px;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+
+mark {
+    background: #f0d9bb;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Styling for listing pages. */
+/* ------------------------------------------------------------------------ */
+.list-page {
+    ul {
+        list-style-type: none;
+        margin: -0.25em;
+        width: 87.5%;
+        max-width: 45rem;
+    }
+    li {
+        margin: 0;
+        /*font-size: 95%;*/
+    }
+}
+.list-page .list-date {
+    display: inline;
+    font-size: 0.75em;
+    /* padding-right: 2em; */
+    /* margin-right: 2em; */
+}
+
+table:not(.lntable) {
+    margin-top: 1.4em;
+    font-size: 1.4rem;
+    width: auto; /* making booktabs style tables the unstyled default in case someone uses Markdown styling */
+    /* margin: 0 auto; */
+    /* border-spacing: 0px; */
+}
+
+table:not(.lntable) tr th {
+  border-bottom: 1px solid #111;
+  text-transform: uppercase;
+}
+
+table:not(.lntable) tr th,
+table:not(.lntable) tr td {
+    padding-right: 0.5rem;
+}
+
+table.lntable {
+    td.lntd {
+        padding: 0em;
+    }
+    border-spacing: 0;
+    padding: 0;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Styling for footnotes. */
+/* ------------------------------------------------------------------------ */
+.footnotes hr {
+    margin-top: 4.4em;
+}
+
+.footnotes ol {
+    width: 55%;
+    margin-top: 4.4rem;
+
+    li {
+        p {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+
+            a.footnote-backref {
+                font-size: 1.2rem;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+/* ------------------------------------------------------------------------ */
+/* Styling for maths. */
+/* ------------------------------------------------------------------------ */
+
+/* mjx-container[jax="CHTML"][display="true"]::-webkit-scrollbar,
+.katex-display::-webkit-scrollbar {
+  display: none;
+}*/
+
+mjx-container[jax="CHTML"][display="true"],
+.katex-display {
+      overflow: auto;
+      overflow-y: hidden;
+/*     -ms-overflow-style: none;
+    scrollbar-width: none; */
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Styling for margin/side notes. */
+/* ------------------------------------------------------------------------ */
+.marginnote .marginnote-ind,
+.sidenote .sidenote-number {
+    margin-right: 5px;
+}
+
+/* prevent over-crowding */
+
+.sidenote, .marginnote {
+    margin-bottom: 1rem;
+}
+
+.sidenote code,
+.marginnote code {
+    font-size: 0.9rem;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Styling & fixes for cols. */
+/* ------------------------------------------------------------------------ */
+// create grid
+.row {
+  /* mobile */
+  display: grid;
+  width: 75%;
+  gap: 0.3rem;
+  margin: 0 0 1rem 0;
+}
+
+.row .column:nth-of-type(2n) {
+  margin-left: 1rem;
+}
+
+.row .column:nth-of-type(3n) {
+  margin-left: 2rem;
+}
+
+.row .column > p:first-child {
+  margin-top: 0;
+}
+
+.row .column > p:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 760px) {
+  /* desktop */
+  /* https://stackoverflow.com/a/62086985 */
+  .row {
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    /* above 2 lines are equivalent as below 1 line */
+    /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+    gap: 1.4rem;
+    margin: 0 0 1.4rem 0;
+  }
+  .row .column {
+    margin-left: 0 !important;
+  }
+}
+
+.column > p {
+  width: 100%;
+}
+
+.column > p > label.margin-toggle.marginnote-ind {
+  display: inline;
+}
+
+.column > p > .sidenote,
+.column > p > .marginnote {
+  display: none;
+}
+
+.column > p > .margin-toggle:checked + .sidenote,
+.column > p > .margin-toggle:checked + .marginnote {
+  display: block;
+  float: left;
+  left: 1rem;
+  clear: both;
+  width: 95%;
+  margin: 1rem 2.5%;
+  vertical-align: baseline;
+  position: relative;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Styling for buttons. */
+/* ------------------------------------------------------------------------ */
+.btn {
+    display: inline-block;
+    margin-top: 1.4rem;
+}
+.btn button {
+    font-size: 1.4rem;
+}
+.btn button .icon {
+    font-size: 1.2rem;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Styling for i18n. */
+/* ------------------------------------------------------------------------ */
+
+/* reduce zh & ja font-size to match en */
+
+p:lang(zh), span:lang(zh),
+p:lang(ja), span:lang(ja), {
+    font-size: 1.2rem;
+}
+
+.sidenote:lang(zh),
+.marginnote:lang(zh) {
+    font-size: 0.5rem;
+}
+
+.sidenote:lang(ja),
+.marginnote:lang(ja) {
+    font-size: 0.9rem;
+}

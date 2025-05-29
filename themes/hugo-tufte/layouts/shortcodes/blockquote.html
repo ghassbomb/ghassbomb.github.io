@@ -1,0 +1,8 @@
+<blockquote cite="{{ .Get "cite" }}">
+{{ .Inner | $.Page.RenderString (dict "display" "block") }}
+<footer>
+{{- with .Get "author" -}}{{ . }}{{- end -}}
+{{- with .Get "cite" -}}, <cite>{{ . | markdownify }}</cite>{{- end -}}
+{{- with .Get "detail" -}}, {{ . | markdownify }}{{- end -}}
+</footer>
+</blockquote>

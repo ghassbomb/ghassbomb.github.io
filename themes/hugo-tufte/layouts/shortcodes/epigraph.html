@@ -1,0 +1,12 @@
+<div class="epigraph">
+<blockquote>
+{{ .Inner | $.Page.RenderString (dict "display" "block") }}
+{{ if .IsNamedParams }}
+    <footer>
+    {{- with .Get "author" -}}{{ . }}{{- end -}}
+    {{- with .Get "cite" -}}, <cite>{{ . | markdownify }}</cite>{{- end -}}
+    {{- with .Get "detail" -}}, {{ . | markdownify }}{{- end -}}
+    </footer>
+{{ end }}
+</blockquote>
+</div>

@@ -1,0 +1,9 @@
+{{ $id := .Get "id" | default (.Get 0) }}
+{{ $4x3 := .Get "4x3" | default "false" }}
+{{ $title := .Get "title" | default "YouTube Video" }}
+
+<div class="video-container">
+<iframe
+class="video {{ with $4x3 }}{{ if eq . "true" }}video--4x3{{ else }}video--16x9{{ end }}{{ end }}"
+src="https://www.youtube-nocookie.com/embed/{{ $id }}?cc_load_policy=1&cc=1{{ with .Get "start" }}&start={{ . }}{{ end }}{{ with .Get "end" }}&end={{ . }}{{ end }}" allowfullscreen title="{{ $title }}" frameborder="0" sandbox="allow-same-origin allow-scripts" loading="lazy"></iframe>
+</div>

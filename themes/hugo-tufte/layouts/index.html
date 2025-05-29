@@ -1,0 +1,55 @@
+{{ define "main" }}
+<article id="main" class="home-page">
+{{ partial "brand.html" . }}
+{{ with .Content }}
+  <section>
+  {{ . }}
+  </section>
+{{ end }}
+<section class="page-list">
+{{ $pgFilter1 := where .Site.RegularPages "Draft" false }}
+{{ $pgFilter2 := where .Site.RegularPages "Params.date" "!=" nil }}
+{{ $pgFilter := $pgFilter1 | intersect $pgFilter2 }}
+{{ range (.Paginate $pgFilter).Pages }}
+  <h2 class="content-title">
+  {{ if .IsNode }}
+  <a href="{{ .Permalink }}">{{ .Title}}</a>
+  {{ else }}
+  <a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }}&nbsp;:: Draft{{end}}</a>
+  {{ end }}
+  </h2>
+
+  {{ if .Description }}
+  <p>{{ .Description }}</p>
+  {{ else }}
+  {{ if .Site.Params.showSummary }}
+  <p>{{ truncate 140 .Summary }}</p>
+  {{ end }}
+  {{ end }}
+{{ end }}
+</section>
+
+{{ if and (.Paginator) (gt .Paginator.TotalPages 1) }}
+<hr />
+
+<span class="previous-page">
+{{ if .Paginator.HasPrev }}
+<a class="link-reverse" href="{{.Paginator.Prev.URL}}">«</a>
+{{ end }}
+</span>
+
+<span class="pagination-indicator">
+{{.Paginator.PageNumber}} / {{.Paginator.TotalPages}}
+</span>
+
+<span class="next-page">
+{{ if .Paginator.HasNext }}
+<a class="link-reverse" href="{{.Paginator.Next.URL}}">»</a>
+{{ end }}
+</span>
+
+{{ end }}
+
+{{ partial "footer.html" . }}
+</article>
+{{ end }}

@@ -1,0 +1,28 @@
+<section>
+<h1 class="content-title">
+{{- .Title -}}{{- if .Draft -}}&nbsp;:: Draft{{- end -}}
+</h1>
+{{- if .Params.subtitle -}}
+<p class=subtitle>{{ .Params.subtitle }}</p>
+{{- end -}}
+
+{{- if and (.IsPage) (.Params.meta) -}}
+<span class="content-meta">
+  {{- if .Params.author -}}
+  <p class="author">{{ .Params.author }}</p>
+  {{- end -}}
+
+  {{- if not .Params.hidedate -}}
+  <p class="date">{{ .Date.Format "2006-01-02" }}</p>
+  {{- end -}}
+
+  {{- if not .Params.hidereadtime -}}
+  <span>{{ .ReadingTime }} min read&nbsp;</span>
+  {{- end -}}
+
+  {{- range .Params.tags -}}
+  <a href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>&nbsp;
+  {{- end -}}
+</span>
+{{- end -}}
+</section>
