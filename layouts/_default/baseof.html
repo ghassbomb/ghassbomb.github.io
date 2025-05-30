@@ -2,10 +2,10 @@
 <html lang="en">
 {{ partial "head.html" . }}
 <body>
-  {{ partial "header.html" . }}
   <article>
+    {{ partial "header.html" . }}
     {{ block "main" . }}{{ end }}
+    {{ partial "footer.html" . }}
   </article>
-  {{ partial "footer.html" . }}
 </body>
 </html>

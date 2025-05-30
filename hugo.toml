@@ -11,6 +11,9 @@ filename = "sitemap.xml"
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup.goldmark.tableOfContents]
+  startLevel = 2
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

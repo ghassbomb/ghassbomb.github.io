@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Ghassan Shahzad</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Ghassan Shahzad</description>
+    <title>Mathematics on Ghassan Shahzad</title>
+    <link>http://localhost:1313/maths/</link>
+    <description>Recent content in Mathematics on Ghassan Shahzad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/maths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Course on Game Theory</title>
       <link>http://localhost:1313/maths/tgc-game-theory/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/maths/tgc-game-theory/</guid>
       <description>&lt;p&gt;These are problem solutions to &lt;a href=&#34;https://www.thegreatcourses.com/courses/understanding-economics-game-theory&#34;&gt;a TTC/TGC course on game theory&lt;/a&gt; by Jay R. Corrigan. The solutions are organized by lecture, of which there are twelve in total.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lecture-one&#34;&gt;Lecture One&lt;/h2&gt;&#xA;&lt;p&gt;Q1: Find this game’s two pure-strategy Nash equilibrium outcomes.&#xA;Assume a higher payoff is better than a lower one. (Colin bolded, Rose the other).&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Left&lt;/th&gt;&#xA;          &lt;th&gt;Right&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Up&lt;/td&gt;&#xA;          &lt;td&gt;0,3&lt;/td&gt;&#xA;          &lt;td&gt;10,10&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Down&lt;/td&gt;&#xA;          &lt;td&gt;2,1&lt;/td&gt;&#xA;          &lt;td&gt;5,0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;A1:&#xA;One outcome is Colin going right, while Rose goes up. This results in 10 units of payoff to each player, and there is no incentive to change since no other outcome rewards a greater outcome to either player.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;This is a personal site by Ghassan Shahzad.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
