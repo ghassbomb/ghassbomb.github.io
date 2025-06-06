@@ -1,0 +1,35 @@
+[[entries]]
+title = "My Personal Site"
+  [[entries.entries]]
+  title = "My Github"
+  url = "https://github.com/ghassbomb"
+
+[[entries]]
+title = "Menu"
+
+  [[entries.entries]]
+  title = "Mathematics"
+  url = "/maths"
+
+    [[entries.entries]]
+  title = "Philosophy"
+  url = "/phil"
+
+[[entries]]
+title = "All Posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "Words of Wisdom"
+
+  [[entries.entries]]
+    title = "Everything that can be thought at all can be thought clearly. Everything that can be said can be said clearly. - Wittgenstein"
+
+[[entries]]
+title = "RSS"
+url = "index.xml"

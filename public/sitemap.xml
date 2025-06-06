@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/maths/tgc-game-theory/</loc>
-    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/phil/tgc-phil-of-science/</loc>
+    <lastmod>2025-06-06T15:53:09+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-06T15:53:09+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/phil/</loc>
+    <lastmod>2025-06-06T15:53:09+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/maths/tgc-game-theory/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

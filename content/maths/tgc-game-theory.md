@@ -68,3 +68,17 @@ Q2: Fill in the blanks in the following payoff matrix so it’s clear this is a 
 |------|------|-------|
 | TV |  1,1 | 1,0 |
 | Dinner + Movie | 0,1  |  3,3 |
+
+## Lecture Five
+
+1. Assuming a probability $p$ of Rose going straight, and a probability $(1-p)$ of Rose swerving:  
+   1. Colin's expected value of going straight is $-1*p + 2(1-p)$. 
+   2. Colin's EV of swerving is: $0*p + 1(1-p)$. 
+   3. Equate these and simplify to get: $-3p + 2 = 1 - p$ -> $p = 1/2$. 
+   4. This tells us Colin should go straight fifty percent of the time, and swerve fifty percent of the time.
+2. This is a zero-sum game. Assuming the batter thinks the pitcher will throw a fastball, he will prepare for a fastball; if he thinks he's getting a changeup, he'll prepare for a changeup. There is no dominant strategy here. 
+   1. Assuming a probability $p$ of the pitcher throwing a fastball; and a probability $(1-p)$ of the pitcher throwing a changeup. 
+      1. The batter's expected value function for readying for a fastball is $p + -1*(1-p)$.
+      2. His expected value function for readying for a changeup is $-p + 2*(1-p)$. 
+      3. If we equate these and simplify, we get $p = 3/5$. 
+      4. This tells us: 60% of the time, the batter must assume a fastball, and the other 40% of the time he must assume a changeup.

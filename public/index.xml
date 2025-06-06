@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Ghassan Shahzad</title>
+    <title>Ghassan Shahzad</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Ghassan Shahzad</description>
+    <description>Recent content on Ghassan Shahzad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 15:53:09 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course on Philosophy of Science (TGC)</title>
+      <link>http://localhost:1313/phil/tgc-phil-of-science/</link>
+      <pubDate>Fri, 06 Jun 2025 15:53:09 +0500</pubDate>
+      <guid>http://localhost:1313/phil/tgc-phil-of-science/</guid>
+      <description>&lt;p&gt;These are answers to questions from a &lt;a href=&#34;https://www.thegreatcoursesplus.com/philosophy-of-science.html&#34;&gt;TGC course&lt;/a&gt; on the Philosophy of Science by Professor Jeffrey L. Kasser.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Course on Game Theory</title>
       <link>http://localhost:1313/maths/tgc-game-theory/</link>
